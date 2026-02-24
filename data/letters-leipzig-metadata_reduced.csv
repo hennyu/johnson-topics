@@ -1,0 +1,1034 @@
+idno,filename,corpus,genre,sender,receiver,date,year,month,sender_norm,receiver_norm,tokens
+uj0001,0597_s000186.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1967-05-04,1967,5,JohnsonUwe,BierwischManfred,31
+uj0002,0587_s000182.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1967-01-29,1967,1,JohnsonUwe,BierwischManfred,1367
+uj0003,0606_s000188.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1967-10-15,1967,10,JohnsonUwe,BierwischManfred,736
+uj0004,0589_s000061.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus",1967-02-21,1967,2,JohnsonUwe,BaumgärtnerKlaus,22
+uj0006,0599_s000067.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1967-05-11,1967,5,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,1286
+uj0007,0588_101040.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1967-02-20,1967,2,JohnsonUwe,BierwischManfred,1042
+uj0008,0585_101037.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1967-01-22,1967,1,BierwischManfred,JohnsonUwe,712
+uj0009,0590_110142.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1967-02-24,1967,2,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,421
+uj0013,0592_101041.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1967-03-16,1967,3,BierwischManfred,JohnsonUwe,888
+uj0014,0602_101050.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1967-07-19,1967,7,BierwischManfred,JohnsonUwe,733
+uj0015,0600_101048.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim",1967-06-09,1967,6,JohnsonUwe,MenzhausenJoachim,354
+uj0016,0609_101054.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1967-11-03,1967,11,BierwischManfred,JohnsonUwe,611
+uj0017,0605_101052.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",0000-00-00,0,0,KlemmErika,JohnsonUwe,63
+uj0018,0604_101051.xml,letters-leipzig,Brief,"Baumgärtner, Sabine","Johnson, Uwe",1967-09-12,1967,9,BaumgärtnerSabine,JohnsonUwe,78
+uj0019,0596_101045.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1967-05-01,1967,5,JohnsonUwe,BierwischManfred,407
+uj0021,0586_101039.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1967,1967,,BierwischManfred,JohnsonUwe,272
+uj0022,0591_s000184.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1967-03-01,1967,3,JohnsonUwe,BierwischManfred,60
+uj0023,0584_s000159.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1967-01-10,1967,1,JohnsonUwe,BierwischManfred,589
+uj0024,1044_002771.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1978-11-10,1978,11,BierwischManfred,JohnsonUwe,1337
+uj0025,1042_101729.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1978-10-24,1978,10,KlemmErika,JohnsonUwe,50
+uj0026,1046_101732.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1978-11-21,1978,11,JohnsonUwe,BierwischManfred,1623
+uj0027,1033_002776.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1978-02-10,1978,2,BierwischManfred,JohnsonUwe,1375
+uj0028,1047_101736.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1978-12-30,1978,12,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,132
+uj0029,1041_101728.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1978-09-08,1978,9,BierwischManfred,JohnsonUwe,40
+uj0030,1038_101723.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt + Klemm, Erika",1978-09-01,1978,9,JohnsonUwe,KlemmEberhardt+KlemmErika,86
+uj0031,1035_101719.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1978-04-20,1978,4,KlemmErika,JohnsonUwe,54
+uj0032,1034_101717.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1978-03-06,1978,3,JohnsonUwe,BierwischManfred,452
+uj0033,1045_101731.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1978-11-15,1978,11,JohnsonUwe,BierwischManfred,57
+uj0034,1037a_000044.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1978-09-01,1978,9,JohnsonUwe,KlemmEberhardt,36
+uj0035,1037_101721.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1978-06-05,1978,6,JohnsonUwe,KlemmErika,1126
+uj0036,1039_101724.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1978-09-01,1978,9,JohnsonUwe,BierwischManfred,104
+uj0037,1043_101726.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1978-10-24,1978,10,JohnsonUwe,KlemmErika,201
+uj0038,1036_101720.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1978-06-05,1978,6,KlemmErika,JohnsonUwe,161
+uj0039,1040_s000110.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1978-09-01,1978,9,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,124
+uj0040,0020_100101.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-09-17,1955,9,BierwischManfred,JohnsonUwe,592
+uj0041,0022_100102.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1955-10-12,1955,10,BierwischManfred,JohnsonUwe,95
+uj0042,0010_060004.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-07-17,1955,7,BierwischManfred,JohnsonUwe,660
+uj0043,0019_060022.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-09-10,1955,9,BierwischManfred,JohnsonUwe,374
+uj0047,0021_060023.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1955-10-04,1955,10,BierwischManfred,JohnsonUwe,146
+uj0049,0013_060006.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-07-25,1955,7,BierwischManfred,JohnsonUwe,170
+uj0050,0014_100100.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-08-05,1955,8,BierwischManfred,JohnsonUwe,516
+uj0051,0015_060009.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1955-08-11,1955,8,MenzhausenJoachim,JohnsonUwe,181
+uj0053,0005_060001.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-06-15,1955,6,BierwischManfred,JohnsonUwe,993
+uj0054,0017_060010.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-08-18,1955,8,BierwischManfred,JohnsonUwe,119
+uj0055,0006_060002.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-06-23,1955,6,BierwischManfred,JohnsonUwe,1596
+uj0056,0001_s000151.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe + Ebel, Gertrud","Bierwisch, Manfred",1955-05-27,1955,5,JohnsonUwe+EbelGertrud,BierwischManfred,457
+uj0057,0016_060008.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1955-08-12,1955,8,BaumgärtnerKlaus,JohnsonUwe,127
+uj0058,0003_060000.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-06-03,1955,6,BierwischManfred,JohnsonUwe,428
+uj0059,0011_060005.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-07-19,1955,7,BierwischManfred,JohnsonUwe,290
+uj0060,0008_060003.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1955-07-09,1955,7,BierwischManfred,JohnsonUwe,579
+uj0061,0007_s000152.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1955-07-02,1955,7,JohnsonUwe,BierwischManfred,503
+uj0062,1092_101805.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim + Menzhausen, Ingelore",1981-03-19,1981,3,JohnsonUwe,MenzhausenJoachim+MenzhausenIngelore,1073
+uj0063,1104_101823.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1981-07-19,1981,7,KlemmIne,JohnsonUwe,162
+uj0064,1108_101826.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1981-12-30,1981,12,KlemmIne,JohnsonUwe,239
+uj0065,1093_101809.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1981-04-27,1981,4,KlemmErika,JohnsonUwe,21
+uj0066,1095_101811.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1981-05-19,1981,5,JohnsonUwe,BierwischManfred,24
+uj0067,1099_101815.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1981-06-01,1981,6,JohnsonUwe,KlemmErika,756
+uj0068,1100_101817.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",0000-00-00,0,0,KlemmErika,JohnsonUwe,79
+uj0069,1107_101825.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1981-08-03,1981,8,JohnsonUwe,KlemmIne,478
+uj0070,1097_101813.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1981-05-23,1981,5,MenzhausenJoachim,JohnsonUwe,501
+uj0071,1102_101821.xml,letters-leipzig,Brief + Postkarte,"Klemm, Erika","Johnson, Uwe",1981-07-14,1981,7,KlemmErika,JohnsonUwe,19
+uj0072,1105_101819.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1981-07-20,1981,7,JohnsonUwe,BierwischManfred,53
+uj0073,1091_101804.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1981-03-19,1981,3,JohnsonUwe,KlemmErika,1230
+uj0074,1098_101814.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1981-05-26,1981,5,KlemmErika,JohnsonUwe,52
+uj0076,1103_101822.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,87
+uj0077,1089_101797.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1981-01-03,1981,1,MenzhausenJoachim,JohnsonUwe,991
+uj0078,1096_101812.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1981-05-20,1981,5,JohnsonUwe,KlemmErika,1426
+uj0079,1106_101824.xml,letters-leipzig,Brief + Umschlag,"Bierwisch, Manfred","Johnson, Uwe",1981-07-30,1981,7,BierwischManfred,JohnsonUwe,193
+uj0080,1101_101818.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim + Menzhausen, Ingelore",1981-06-29,1981,6,JohnsonUwe,MenzhausenJoachim+MenzhausenIngelore,1530
+uj0081,1090_101802.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1981-03-16,1981,3,BierwischManfred,JohnsonUwe,579
+uj0082,0899_101566.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1974-01-07,1974,1,KlemmIne,JohnsonUwe,76
+uj0083,0924_101596.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1974-03-25,1974,3,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,402
+uj0086,0901_101568.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1974-01-09,1974,1,JohnsonUwe,BierwischManfred,338
+uj0087,0929_101602.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1974-05-09,1974,5,JohnsonUwe,BierwischManfred,46
+uj0088,0897_101565.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1974-01-01,1974,1,KlemmIne,JohnsonUwe,79
+uj0090,0939_101615.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1974-10-08,1974,10,KlemmIne,JohnsonUwe,452
+uj0091,0928_101600.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1974-04-11,1974,4,JohnsonUwe,KlemmErika,118
+uj0092,0927_101599.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1974-04-06,1974,4,JohnsonUwe,BierwischManfred,1110
+uj0093,0911_101581.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1974-01-27,1974,1,KlemmIne,JohnsonUwe,90
+uj0095,0934_101608.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1974-08-08,1974,8,BierwischManfred,JohnsonUwe,76
+uj0096,0913_101583.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1974-01-28,1974,1,KlemmErika,JohnsonUwe,28
+uj0097,0902_101571.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1974-01-11,1974,1,JohnsonUwe,KlemmIne,271
+uj0101,0905_s000094.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1974-01-13,1974,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,10202
+uj0102,0917_101588.xml,letters-leipzig,Brief + Umschlag + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1974-02-05,1974,2,BierwischManfred,JohnsonUwe,176
+uj0103,0943_101619.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1974-12-28,1974,12,JohnsonUwe,KlemmErika,2001
+uj0104,0907_101576.xml,letters-leipzig,Brief + Umschlag,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,1643
+uj0105,0932_101605.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1974-05-31,1974,5,BierwischManfred,JohnsonUwe,49
+uj0106,0922_101593.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1974-03-00,1974,3,KlemmIne,JohnsonUwe,30
+uj0107,0910_s000098.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1974-01-25,1974,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,419
+uj0108,0918_101589.xml,letters-leipzig,Brief + Umschlag,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,100
+uj0109,0930_101603.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1974-05-20,1974,5,BierwischManfred,JohnsonUwe,767
+uj0110,0936_101611.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1974-08-30,1974,8,JohnsonUwe,KlemmIne,346
+uj0112,0937_101612.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,127
+uj0114,0900_000038.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1973-01-09,1973,1,JohnsonUwe,KlemmEberhardt,739
+uj0115,0935_101610.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,384
+uj0116,0942_101618.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1974-12-28,1974,12,KlemmErika,JohnsonUwe,92
+uj0117,0912_101582.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1974-01-28,1974,1,KlemmErika,JohnsonUwe,107
+uj0118,0914_101584.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1974-01-30,1974,1,JohnsonUwe,KlemmErika,362
+uj0119,0923_101594.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1974-03-11,1974,3,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,47
+uj0120,0921_101592.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1974-03-03,1974,3,JohnsonUwe,KlemmIne,97
+uj0121,0908_101578.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1974-01-23,1974,1,KlemmIne,JohnsonUwe,97
+uj0124,0909_101579.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1974-01-23,1974,1,JohnsonUwe,KlemmIne,453
+uj0125,0926_101598.xml,letters-leipzig,Dokument + Bericht,"Bierwisch, Manfred","Johnson, Uwe",1974-04-06,1974,4,BierwischManfred,JohnsonUwe,2083
+uj0127,0915_101586.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,93
+uj0128,0931_101604.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1974-05-29,1974,5,BierwischManfred,JohnsonUwe,49
+uj0129,1057_101748.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1979-06-14,1979,6,BaumgärtnerKlaus,JohnsonUwe,208
+uj0130,1049_101738.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1979-03-25,1979,3,BierwischManfred,JohnsonUwe,464
+uj0131,1064_101757.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1979-10-28,1979,10,KlemmIne,JohnsonUwe,366
+uj0132,1066_101759.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1979-11-12,1979,11,BierwischManfred,JohnsonUwe,89
+uj0133,1055_101745.xml,letters-leipzig,Brief,"Bierwisch, Hedwig","Johnson, Uwe",1979-05-21,1979,5,BierwischHedwig,JohnsonUwe,346
+uj0134,1053_101742.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1979-04-28,1979,4,BierwischManfred,JohnsonUwe,21
+uj0135,1062_101755.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1979-09-20,1979,9,BierwischManfred,JohnsonUwe,35
+uj0136,1047a_002768.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1979-01-01,1979,1,KlemmEberhardt,JohnsonUwe,170
+uj0137,1054_101744.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1979-05-20,1979,5,KlemmEberhardt,JohnsonUwe,73
+uj0138,1048_101737.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1979-02-04,1979,2,JohnsonUwe,BierwischManfred,1101
+uj0139,1060_101752.xml,letters-leipzig,Brief + Postkarte + Umschlag,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1979-08-03,1979,8,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,39
+uj0140,1058_101749.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1979-07-06,1979,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,115
+uj0141,1047b_000046.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1979-01-15,1979,1,JohnsonUwe,KlemmEberhardt,55
+uj0142,1061_101754.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1979-09-15,1979,9,BierwischManfred,JohnsonUwe,93
+uj0143,1051b_000050.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1979-04-14,1979,4,JohnsonUwe,KlemmEberhardt,51
+uj0144,1051_101740.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1979-04-07,1979,4,JohnsonUwe,BierwischManfred,125
+uj0145,1051a_000049.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1979-04-12,1979,4,JohnsonUwe,KlemmEberhardt,25
+uj0146,1065_101758.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1979-11-04,1979,11,JohnsonUwe,BierwischManfred,430
+uj0147,1049a_000048.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1979-03-30,1979,3,JohnsonUwe,KlemmEberhardt,66
+uj0148,1059_101751.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1979-07-15,1979,7,BaumgärtnerKlaus,JohnsonUwe,84
+uj0149,1047c_000047.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1979-02-04,1979,2,JohnsonUwe,KlemmEberhardt,45
+uj0150,1050_101739.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1979-04-02,1979,4,KlemmEberhardt,JohnsonUwe,92
+uj0151,1068_101761.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1979-12-17,1979,12,BierwischManfred,JohnsonUwe,428
+uj0152,1067_101760.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1979-11-22,1979,11,JohnsonUwe,KlemmIne,469
+uj0153,1056_101746.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Hedwig + Bierwisch, Wilhelm",1979-06-01,1979,6,JohnsonUwe,BierwischHedwig+BierwischWilhelm,451
+uj0154,1063_101756.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1979-10-27,1979,10,BierwischManfred,JohnsonUwe,53
+uj0155,1052_101741.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1979-04-24,1979,4,JohnsonUwe,BaumgärtnerKlaus,125
+uj0156,0177_000005.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1959-04-23,1959,4,JohnsonUwe,KlemmEberhardt,177
+uj0157,0163_060138.xml,letters-leipzig,Brief + Rundschreiben,"Klemm, Eberhardt","Johnson, Uwe",1959-03-09,1959,3,KlemmEberhardt,JohnsonUwe,864
+uj0158,0155_060130.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-01-30,1959,1,BierwischManfred,JohnsonUwe,166
+uj0159,0160_060134.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1959-02-16,1959,2,JohnsonUwe,BierwischManfred,1083
+uj0160,0150_060128.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-01-10,1959,1,BierwischManfred,JohnsonUwe,623
+uj0161,0176_060151.xml,letters-leipzig,Dokument,"Bierwisch, Manfred + Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1959-04-19,1959,4,BierwischManfred+BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,572
+uj0162,0191_000008.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1959-12-25,1959,12,JohnsonUwe,KlemmEberhardt,95
+uj0163,0167_060142.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-03-31,1959,3,BierwischManfred,JohnsonUwe,133
+uj0164,0165_060140.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1959-03-21,1959,3,JohnsonUwe,BaumgärtnerKlaus,1149
+uj0165,0187_060157.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-10-08,1959,10,BaumgärtnerKlaus,JohnsonUwe,97
+uj0166,0161_060136.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1959-02-17,1959,2,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,755
+uj0167,0170_060149.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-04-09,1959,4,BierwischManfred,JohnsonUwe,446
+uj0168,0183_060154.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1959-08-22,1959,8,BaumgärtnerKlaus,JohnsonUwe,73
+uj0169,0157_060133.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1959-02-05,1959,2,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,30
+uj0170,0179_060153.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959,1959,,BaumgärtnerKlaus,JohnsonUwe,420
+uj0171,0154_s000004.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1959-01-27,1959,1,JohnsonUwe,BaumgärtnerKlaus,338
+uj0172,0192_060160.xml,letters-leipzig,Dokument,"Johnson, Uwe + Baumgärtner, Klaus",,1959-12-27,1959,12,JohnsonUwe+BaumgärtnerKlaus,,213
+uj0173,0180_000006.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1959-06-13,1959,6,JohnsonUwe,KlemmEberhardt,182
+uj0174,0156_060132.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1959-02-04,1959,2,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,61
+uj0176,0182_000056.xml,letters-leipzig,Brief + Telegramm + Postkarte,"Johnson, Uwe + Schmidt, Elisabeth","Klemm, Eberhardt",1959-06-30,1959,6,JohnsonUwe+SchmidtElisabeth,KlemmEberhardt,47
+uj0177,0162_060137.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-02-20,1959,2,BaumgärtnerKlaus,JohnsonUwe,487
+uj0178,0168_060145.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1959-04-01,1959,4,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,289
+uj0179,0186_060156.xml,letters-leipzig,Brief,"Schmidt, Elisabeth","Johnson, Uwe",1959-10-08,1959,10,SchmidtElisabeth,JohnsonUwe,27
+uj0181,0151_060127.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1959-01-12,1959,1,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,381
+uj0182,0164_060139.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-03-17,1959,3,BaumgärtnerKlaus,JohnsonUwe,130
+uj0183,0172_060146.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-04-10,1959,4,BaumgärtnerKlaus,JohnsonUwe,48
+uj0184,0173_060150.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-04-16,1959,4,BaumgärtnerKlaus,JohnsonUwe,248
+uj0185,0185_060156.xml,letters-leipzig,Brief,"Schmidt, Elisabeth","Johnson, Uwe",1959-10-08,1959,10,SchmidtElisabeth,JohnsonUwe,22
+uj0186,0153_060129.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-01-26,1959,1,BierwischManfred,JohnsonUwe,709
+uj0188,0159_060135.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-02-15,1959,2,BierwischManfred,JohnsonUwe,367
+uj0189,0181_000007.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1959-06-26,1959,6,JohnsonUwe,KlemmEberhardt,161
+uj0190,0149_060126.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-01-08,1959,1,BaumgärtnerKlaus,JohnsonUwe,110
+uj0191,0193_060161.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1959-12-28,1959,12,JohnsonUwe,BaumgärtnerKlaus,478
+uj0193,0166_060141.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1959-03-24,1959,3,MenzhausenJoachim,JohnsonUwe,225
+uj0194,0171_060147.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-04-10,1959,4,BaumgärtnerKlaus,JohnsonUwe,818
+uj0195,0175_060148.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1959-04-18,1959,4,BierwischManfred,JohnsonUwe,333
+uj0196,0190_060159.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1959-10-25,1959,10,BierwischManfred,JohnsonUwe,78
+uj0197,0184_060155.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1959-09-19,1959,9,BaumgärtnerKlaus,JohnsonUwe,1232
+uj0199,0188_060158.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Baumgärtner, Klaus","Johnson, Uwe",1959-10-14,1959,10,BierwischManfred+BaumgärtnerKlaus,JohnsonUwe,358
+uj0201,0613_101058.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1968-03-20,1968,3,JohnsonUwe,KlemmErika,349
+uj0202,0640_s000205.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-12-04,1968,12,JohnsonUwe,BierwischManfred,604
+uj0204,0642_101092.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1968-12-12,1968,12,DohertyMonika,JohnsonUwe,254
+uj0205,0615_s000191.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1968-04-15,1968,4,JohnsonUwe,BierwischManfred,37
+uj0207,0623_s000194.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-08-05,1968,8,JohnsonUwe,BierwischManfred,775
+uj0208,0632_s00199.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-10-19,1968,10,JohnsonUwe,BierwischManfred,327
+uj0209,0614_101059.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1968-04-03,1968,4,KlemmErika,JohnsonUwe,91
+uj0210,0624_s000195.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-08-07,1968,8,JohnsonUwe,BierwischManfred,84
+uj0211,0633_s000200.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1968-10-21,1968,10,JohnsonUwe,BierwischManfred,207
+uj0212,0612_101057.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1968-04-08,1968,4,KlemmEberhardt,JohnsonUwe,26
+uj0214,0636_101083.xml,letters-leipzig,Brief + Telegramm,"Bierwisch, Manfred","Johnson, Uwe",1968-11-07,1968,11,BierwischManfred,JohnsonUwe,20
+uj0216,0619_101065.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1968-07-24,1968,7,KlemmIne,JohnsonUwe,143
+uj0217,0627_101072.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1968-09-06,1968,9,BierwischManfred,JohnsonUwe,798
+uj0218,0641_101089.xml,letters-leipzig,Brief,"Baumgärtner, Sabine","Johnson, Uwe",1968-12-12,1968,12,BaumgärtnerSabine,JohnsonUwe,54
+uj0219,0639_101087.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1968-11-30,1968,11,BierwischManfred,JohnsonUwe,673
+uj0220,0620_101066.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1968-07,1968,7,KlemmErika,JohnsonUwe,82
+uj0221,0616_s000192.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-04-25,1968,4,JohnsonUwe,BierwischManfred,208
+uj0222,0621_101068.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1968-07-27,1968,7,BierwischManfred,JohnsonUwe,1363
+uj0223,0631_101076.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1968-10-15,1968,10,BierwischManfred,JohnsonUwe,548
+uj0224,0645_s000206.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-12-24,1968,12,JohnsonUwe,BierwischManfred,214
+uj0225,0629_s000197.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1968-09-26,1968,9,JohnsonUwe,BierwischManfred,461
+uj0226,0644_101094.xml,letters-leipzig,Brief,"Johnson, Uwe","Doherty, Monika",1968-12-24,1968,12,JohnsonUwe,DohertyMonika,245
+uj0227,0630_s000198.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-10-09,1968,10,JohnsonUwe,BierwischManfred,705
+uj0228,0634_s000201.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-10-23,1968,10,JohnsonUwe,BierwischManfred,341
+uj0229,0628_101073.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1968-09-22,1968,9,JohnsonUwe,BierwischManfred,427
+uj0230,0622_101069.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1968-07-31,1968,7,JohnsonUwe,KlemmIne,345
+uj0231,0635_s000202.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1968-10-26,1968,10,JohnsonUwe,BierwischManfred,857
+uj0233,0638_s000204.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1968-11-24,1968,11,JohnsonUwe,BierwischManfred,288
+uj0234,0617_s000193.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1968-05-01,1968,5,JohnsonUwe,BierwischManfred,38
+uj0235,0618_101062.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1968-07-12,1968,7,JohnsonUwe,KlemmIne,352
+uj0236,0626_s000196.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1968-09-04,1968,9,JohnsonUwe,BierwischManfred,49
+uj0237,0643_101093.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1968-12-18,1968,12,BierwischManfred,JohnsonUwe,755
+uj0238,0611_101056.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1968-03-19,1968,3,KlemmErika,JohnsonUwe,58
+uj0239,0822_101483.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1972-05-07,1972,5,KlemmEberhardt,JohnsonUwe,348
+uj0240,0825_101486.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1972-05-13,1972,5,JohnsonUwe,ZeibigBrigitte,157
+uj0241,0850a_000033.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt + Klemm, Erika",1972-11-16,1972,11,JohnsonUwe,KlemmEberhardt+KlemmErika,61
+uj0242,0849_000032.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1972-11-09,1972,11,JohnsonUwe,KlemmEberhardt,163
+uj0244,0839_101499.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1972-10-03,1972,10,BaumgärtnerKlaus,JohnsonUwe,378
+uj0245,0828_101489.xml,letters-leipzig,Brief + Postkarte,"Zeibig, Brigitte","Johnson, Uwe",1972-05-29,1972,5,ZeibigBrigitte,JohnsonUwe,90
+uj0246,0832_000031.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1972-07-19,1972,7,JohnsonUwe,KlemmEberhardt,518
+uj0247,0821_101482.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1972-05-06,1972,5,BierwischManfred,JohnsonUwe,791
+uj0248,0829_s000082.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-06-04,1972,6,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,361
+uj0249,0854_s000243.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1972-12-09,1972,12,JohnsonUwe,BierwischManfred,35
+uj0250,0826_s000242.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1972-05-13,1972,5,JohnsonUwe,BierwischManfred,133
+uj0251,0852_s000090.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-12-01,1972,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,2563
+uj0252,0842_101502.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1972-10-18,1972,10,JohnsonUwe,KlemmErika,338
+uj0253,0819_101480.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1972-04-12,1972,4,JohnsonUwe,BierwischManfred,46
+uj0254,0846_101506.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1972-10-23,1972,10,BaumgärtnerKlaus,JohnsonUwe,186
+uj0255,0845_s000088.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-10-19,1972,10,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,385
+uj0256,0823_101484.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1972-05-10,1972,5,JohnsonUwe,BierwischManfred,459
+uj0257,0840_101500.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1972-10-04,1972,10,BaumgärtnerKlaus,JohnsonUwe,68
+uj0258,0834_s000083.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-08-21,1972,8,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,546
+uj0260,0831_101492.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1972-07-15,1972,7,KlemmEberhardt,JohnsonUwe,143
+uj0261,0844_101504.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1972-10-19,1972,10,JohnsonUwe,BierwischManfred,147
+uj0263,0818_101479.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1972-04-08,1972,4,JohnsonUwe,BierwischManfred,95
+uj0264,0827_s000081.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-05-27,1972,5,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,1091
+uj0265,0843_101503.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt + Klemm, Erika",1972-10-19,1972,10,JohnsonUwe,KlemmEberhardt+KlemmErika,140
+uj0266,0848_s000089.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1972-11-09,1972,11,JohnsonUwe,BaumgärtnerKlaus,289
+uj0267,0820_101481.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1972-05-04,1972,5,JohnsonUwe,BierwischManfred,130
+uj0268,857a_000055.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1972,1972,,KlemmEberhardt,JohnsonUwe,82
+uj0269,0847_101507.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1972-11-04,1972,11,KlemmEberhardt,JohnsonUwe,26
+uj0270,0830_101491.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1972-07-02,1972,7,JohnsonUwe,KlemmEberhardt,53
+uj0271,0841_s000087.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-10-05,1972,10,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,452
+uj0272,0837_s000086.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-09-17,1972,9,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,3471
+uj0273,0856_s000093.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-12-13,1972,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,362
+uj0274,0824_000030.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1972-05-10,1972,5,JohnsonUwe,KlemmEberhardt,292
+uj0276,0836_s000085.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-09-14,1972,9,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,554
+uj0277,0817_101477.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,295
+uj0278,0838_101498.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-09-20,1972,9,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,109
+uj0279,0851_s000092.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-11-28,1972,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,7196
+uj0280,0833_101494.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1972-08-15,1972,8,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,109
+uj0281,0853_101514.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1972-12-03,1972,12,BaumgärtnerKlaus,JohnsonUwe,393
+uj0282,0855_s000091.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1972-12-12,1972,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,2467
+uj0286,0538b_100979.xml,letters-leipzig,Brief,"Johnson, Uwe + Bierwisch, Manfred + Klemm, Erika","Johnson, Uwe + Bierwisch, Manfred + Klemm, Erika",1966-03-14,1966,3,JohnsonUwe+BierwischManfred+KlemmErika,JohnsonUwe+BierwischManfred+KlemmErika,31
+uj0287,0570_101023.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1966-10-10,1966,10,JohnsonUwe,KlemmErika,432
+uj0288,0563_000025.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1966-09-09,1966,9,JohnsonUwe,KlemmEberhardt,477
+uj0290,0555_s000167.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-07-01,1966,7,JohnsonUwe,BierwischManfred,1181
+uj0291,0573_s000178.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-11-09,1966,11,JohnsonUwe,BierwischManfred,48
+uj0293,0533_100972.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-02-03,1966,2,BierwischManfred,JohnsonUwe,529
+uj0294,0572_101025.xml,letters-leipzig,Brief,"Klemm, Eberhardt + Klemm, Erika","Johnson, Uwe",1966-11-05,1966,11,KlemmEberhardt+KlemmErika,JohnsonUwe,143
+uj0295,0546_100995.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-04-17,1966,4,JohnsonUwe,BierwischManfred,461
+uj0296,0538_100971.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-03-02,1966,3,BierwischManfred,JohnsonUwe,459
+uj0297,0543_100992.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-04-13,1966,4,JohnsonUwe,BierwischManfred,460
+uj0298,0559_s000169.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-08-08,1966,8,JohnsonUwe,BierwischManfred,436
+uj0299,0540_s000164.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-04-01,1966,4,JohnsonUwe,BierwischManfred,369
+uj0300,0561_s000170.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-08-19,1966,8,JohnsonUwe,BierwischManfred,800
+uj0301,0564_s000172.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-09-16,1966,9,JohnsonUwe,BierwischManfred,320
+uj0302,0582_101034.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-11-29,1966,11,JohnsonUwe,BierwischManfred,560
+uj0303,0579_101032.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-11-19,1966,11,JohnsonUwe,BierwischManfred,532
+uj0304,0544_100993.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-04-14,1966,4,JohnsonUwe,BierwischManfred,120
+uj0305,0560_101011.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-08-12,1966,8,BierwischManfred,JohnsonUwe,879
+uj0306,0532_100970.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1966-02-01,1966,2,KlemmEberhardt,JohnsonUwe,986
+uj0308,0571_101024.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1966-10-31,1966,10,KlemmEberhardt,JohnsonUwe,422
+uj0310,0547_100996.xml,letters-leipzig,Brief + Postkarte,"Menzhausen, Joachim","Johnson, Uwe",1966-04-19,1966,4,MenzhausenJoachim,JohnsonUwe,64
+uj0311,0542_100991.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-04-07,1966,4,BierwischManfred,JohnsonUwe,529
+uj0313,0545_100994.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1966-04-16,1966,4,KlemmErika,JohnsonUwe,35
+uj0314,0537_100976.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1966-02-28,1966,2,KlemmEberhardt,JohnsonUwe,301
+uj0317,0538c_100981.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim",1966-03-14,1966,3,JohnsonUwe,MenzhausenJoachim,77
+uj0318,0567_101019.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-09-28,1966,9,BierwischManfred,JohnsonUwe,910
+uj0319,0576_000027.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1966-11-11,1966,11,JohnsonUwe,KlemmEberhardt,300
+uj0320,0529_s000162.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-01-15,1966,1,JohnsonUwe,BierwischManfred,505
+uj0321,0567a_s000174.xml,letters-leipzig,Dokument + Notiz,"Johnson, Uwe","Bierwisch, Manfred",1966-09-30,1966,9,JohnsonUwe,BierwischManfred,28
+uj0324,0535_000024.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1966-02-24,1966,2,JohnsonUwe,KlemmEberhardt,365
+uj0325,0541_s000250.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-04-07,1966,4,JohnsonUwe,BierwischManfred,69
+uj0326,0554_101005.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-06-19,1966,6,BierwischManfred,JohnsonUwe,1116
+uj0327,0580_101033.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-11-22,1966,11,BierwischManfred,JohnsonUwe,591
+uj0328,0553_s000177.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1966-06-19,1966,6,JohnsonUwe,BierwischManfred,78
+uj0329,0531_100969.xml,letters-leipzig,Brief + Postkarte,"Zeibig, Brigitte","Johnson, Uwe",1966-02-01,1966,2,ZeibigBrigitte,JohnsonUwe,48
+uj0330,0569_s000175.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-10-07,1966,10,JohnsonUwe,BierwischManfred,422
+uj0333,0550_s000166.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred + Zeibig, Brigitte",1966-05-20,1966,5,JohnsonUwe,BierwischManfred+ZeibigBrigitte,1434
+uj0334,0581_s000181.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1966-12-04,1966,12,JohnsonUwe,BierwischManfred,21
+uj0335,0556_101007.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-07-14,1966,7,BierwischManfred,JohnsonUwe,807
+uj0336,0578_000028.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1966-11-19,1966,11,JohnsonUwe,KlemmEberhardt,358
+uj0337,0574_000026.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1966-11-09,1966,11,JohnsonUwe,KlemmEberhardt,250
+uj0338,0530_100968.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-01-24,1966,1,JohnsonUwe,BierwischManfred,264
+uj0339,0583_s000251.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1966-04-22,1966,4,JohnsonUwe,BierwischManfred,17
+uj0340,0528_100966.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-01-13,1966,1,JohnsonUwe,BierwischManfred,337
+uj0342,0534_100973.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-02-06,1966,2,BierwischManfred,JohnsonUwe,414
+uj0343,0557_s000168.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-07-20,1966,7,JohnsonUwe,BierwischManfred,793
+uj0344,0607_s000190.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1966-10-07,1966,10,JohnsonUwe,BierwischManfred,1498
+uj0345,0577_101030.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-11-16,1966,11,BierwischManfred,JohnsonUwe,633
+uj0346,0536_s000163.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1966-02-25,1966,2,JohnsonUwe,BierwischManfred,511
+uj0348,0527_100963.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-01-10,1966,1,BierwischManfred,JohnsonUwe,476
+uj0349,0575_101028.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1966-11-17,1966,11,KlemmErika,JohnsonUwe,75
+uj0350,0548_100997.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1966-04-20,1966,4,BierwischManfred,JohnsonUwe,296
+uj0351,0883_101545.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred + Doherty, Monika","Johnson, Uwe",1973-08-18,1973,8,BierwischManfred+DohertyMonika,JohnsonUwe,104
+uj0352,0861_101521.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1973-01-11,1973,1,JohnsonUwe,BierwischManfred,361
+uj0353,0863_101525.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1973-02-05,1973,2,JohnsonUwe,KlemmErika,114
+uj0354,0858_101519.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1973-01-04,1973,1,BierwischManfred,JohnsonUwe,509
+uj0357,0888_101552.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1973-11-06,1973,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,134
+uj0358,0866_s000095.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1973-03-23,1973,3,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,103
+uj0359,0877_s000245.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1973-07-03,1973,7,JohnsonUwe,BierwischManfred,68
+uj0360,0890_s000244.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1973-11-27,1973,11,JohnsonUwe,BierwischManfred,84
+uj0361,0862_101524.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1973-02-02,1973,2,BierwischManfred,JohnsonUwe,490
+uj0362,0869_101536.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1973-04-01,1973,4,KlemmIne,JohnsonUwe,362
+uj0363,0882_101544.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1973-08-08,1973,8,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,325
+uj0364,0874_101535.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1973-05-22,1973,5,KlemmIne,JohnsonUwe,70
+uj0365,0873_s000097.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1973-04-28,1973,4,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,55
+uj0366,0895_101560.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1973-12-19,1973,12,BaumgärtnerKlaus,JohnsonUwe,368
+uj0367,0887_101551.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1973-11-06,1973,11,JohnsonUwe,KlemmEberhardt,71
+uj0370,0886_000036.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1973-10-22,1973,10,JohnsonUwe,KlemmEberhardt,403
+uj0371,0872_101533.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1973-04-22,1973,4,KlemmErika,JohnsonUwe,136
+uj0372,0884_101548.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1973-09-15,1973,9,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,63
+uj0373,0891_101555.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1973-11-13,1973,11,KlemmIne,JohnsonUwe,128
+uj0375,0875_101534.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1973-06,1973,6,BaumgärtnerKlaus,JohnsonUwe,135
+uj0377,0893_000037.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1973-12-13,1973,12,JohnsonUwe,KlemmEberhardt,414
+uj0378,0864_101526.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1973-03-04,1973,3,JohnsonUwe,KlemmIne,555
+uj0380,0876_101537.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1973-06-16,1973,6,JohnsonUwe,KlemmIne,1101
+uj0381,0871_101532.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1973-05-08,1973,5,KlemmIne,JohnsonUwe,59
+uj0382,0885_101549.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1973-09-24,1973,9,KlemmIne,JohnsonUwe,55
+uj0384,0879_101541.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1973-07-17,1973,7,KlemmIne,JohnsonUwe,522
+uj0385,0880_101542.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1973-07-24,1973,7,JohnsonUwe,KlemmIne,955
+uj0386,0859_101518.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Klemm, Erika",1973-01-06,1973,1,JohnsonUwe,KlemmErika,48
+uj0387,0894a_000066.xml,letters-leipzig,Brief + Telegramm + Postkarte,"Johnson, Uwe","Klemm, Eberhardt",0000-00-00,0,0,JohnsonUwe,KlemmEberhardt,694
+uj0389,0869a_000034.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1973-04-16,1973,4,JohnsonUwe,KlemmEberhardt,164
+uj0390,0892_101554.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1973-11-30,1973,11,KlemmIne,JohnsonUwe,98
+uj0392,0081_060068.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1958-01-13,1958,1,JohnsonUwe,BierwischManfred,990
+uj0393,0093_060081.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-03-16,1958,3,BierwischManfred,JohnsonUwe,535
+uj0394,0124_060105.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-08-05,1958,8,BierwischManfred,JohnsonUwe,763
+uj0395,0105_060089.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1958-05-07,1958,5,MenzhausenJoachim,JohnsonUwe,379
+uj0396,0095_060079.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1958-03-18,1958,3,JohnsonUwe,BaumgärtnerKlaus,172
+uj0397,0141_060119.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-10-17,1958,10,BaumgärtnerKlaus,JohnsonUwe,785
+uj0398,0101_060084.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-03-20,1958,3,BaumgärtnerKlaus,JohnsonUwe,301
+uj0399,0132_000000.xml,letters-leipzig,Brief + Rundschreiben,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1958-08-27,1958,8,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,74
+uj0401,0128_060108.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Bierwisch, Manfred","Johnson, Uwe",1958-08-12,1958,8,BaumgärtnerKlaus+BierwischManfred,JohnsonUwe,145
+uj0402,0138_060116.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-09-27,1958,9,BierwischManfred,JohnsonUwe,532
+uj0403,0125_060104.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1958-08-08,1958,8,JohnsonUwe,BierwischManfred,239
+uj0404,0130_060109.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1958-08-14,1958,8,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,828
+uj0406,0100_060083.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1958-03-20,1958,3,JohnsonUwe,BaumgärtnerKlaus,204
+uj0408,0092_060072.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1958-03-08,1958,3,JohnsonUwe,BaumgärtnerKlaus,528
+uj0409,0082_060070.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-01-16,1958,1,BierwischManfred,JohnsonUwe,533
+uj0410,0085_100104.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-02-03,1958,2,BaumgärtnerKlaus,JohnsonUwe,927
+uj0411,0088_060074.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1958-02-13,1958,2,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,212
+uj0412,0120_060103.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1958-08-01,1958,8,MenzhausenJoachim,JohnsonUwe,393
+uj0413,0091_060077.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine + Krienke, Gisela","Johnson, Uwe",1958-03-06,1958,3,BaumgärtnerKlaus+BaumannSabine+KrienkeGisela,JohnsonUwe,240
+uj0414,0096_060080.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-03-19,1958,3,BaumgärtnerKlaus,JohnsonUwe,468
+uj0416,0086_100105.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-02-04,1958,2,BaumgärtnerKlaus,JohnsonUwe,646
+uj0417,0097_150959.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-03-20,1958,3,BaumgärtnerKlaus,JohnsonUwe,69
+uj0418,0094_060078.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-03-17,1958,3,BaumgärtnerKlaus,JohnsonUwe,683
+uj0419,0117_060099.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt + Ziegner, Uta + Schmidt, Elisabeth","Johnson, Uwe",1958-07-15,1958,7,KlemmEberhardt+ZiegnerUta+SchmidtElisabeth,JohnsonUwe,139
+uj0420,0145_060123.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1958-11,1958,11,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,105
+uj0421,0090_110113.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-03-02,1958,3,BierwischManfred,JohnsonUwe,1140
+uj0424,0112_060095.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-06-10,1958,6,BaumgärtnerKlaus,JohnsonUwe,512
+uj0425,0143_060121.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-10-24,1958,10,BierwischManfred,JohnsonUwe,214
+uj0426,0121_060102.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1958-08-04,1958,8,KlemmEberhardt,JohnsonUwe,129
+uj0427,0131_060110.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1958-08-18,1958,8,JohnsonUwe,BierwischManfred,1189
+uj0428,0098_060085.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-03-20,1958,3,BaumgärtnerKlaus,JohnsonUwe,157
+uj0429,0103_060087.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1958-04-26,1958,4,JohnsonUwe,BaumgärtnerKlaus,715
+uj0431,0144_060122.xml,letters-leipzig,Dokument,"Baumgärtner, Klaus","Johnson, Uwe",1958,1958,,BaumgärtnerKlaus,JohnsonUwe,44
+uj0432,0119_060101.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt + Ziegner, Uta","Johnson, Uwe",1958-07-28,1958,7,KlemmEberhardt+ZiegnerUta,JohnsonUwe,125
+uj0433,0114_060097.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-06-16,1958,6,BaumgärtnerKlaus,JohnsonUwe,565
+uj0434,0106_000003.xml,letters-leipzig,Brief,"Johnson, Uwe + Bierwisch, Manfred","Klemm, Eberhardt",1958-05-14,1958,5,JohnsonUwe+BierwischManfred,KlemmEberhardt,99
+uj0435,0139_060118.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Baumgärtner, Klaus","Johnson, Uwe",1958-10-04,1958,10,BierwischManfred+BaumgärtnerKlaus,JohnsonUwe,147
+uj0438,0109_060091.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-05-31,1958,5,BierwischManfred,JohnsonUwe,508
+uj0440,0116_000004.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1958-07-12,1958,7,JohnsonUwe,KlemmEberhardt,82
+uj0441,0110_110114.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-06-06,1958,6,BaumgärtnerKlaus,JohnsonUwe,745
+uj0442,0127_060107.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-08-12,1958,8,BierwischManfred,JohnsonUwe,666
+uj0443,0087_060071.xml,letters-leipzig,Dokument,"Johnson, Uwe","Baumgärtner, Klaus + Bierwisch, Manfred + Klemm, Eberhardt + Menzhausen, Joachim",1958-02-08,1958,2,JohnsonUwe,BaumgärtnerKlaus+BierwischManfred+KlemmEberhardt+MenzhausenJoachim,700
+uj0444,0137_060115.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-09-10,1958,9,BaumgärtnerKlaus,JohnsonUwe,249
+uj0446,0099_060082.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1958-03-20,1958,3,JohnsonUwe,BaumgärtnerKlaus,509
+uj0448,0136_060114.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1958-09-09,1958,9,BaumgärtnerKlaus,JohnsonUwe,168
+uj0449,0104_060088.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1958-05-05,1958,5,BaumgärtnerKlaus,JohnsonUwe,369
+uj0450,0107_060090.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-05-20,1958,5,BaumgärtnerKlaus,JohnsonUwe,355
+uj0451,0080_060069.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-01-12,1958,1,BierwischManfred,JohnsonUwe,266
+uj0452,0089_060075.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-02-18,1958,2,BierwischManfred,JohnsonUwe,468
+uj0453,0146_060124.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-11-21,1958,11,BaumgärtnerKlaus,JohnsonUwe,194
+uj0454,0079_060067.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-01-02,1958,1,BierwischManfred,JohnsonUwe,640
+uj0455,0102_060086.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1958-03-28,1958,3,BierwischManfred,JohnsonUwe,154
+uj0456,0134_060112.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe + Schmidt, Elisabeth",1958-08-28,1958,8,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe+SchmidtElisabeth,167
+uj0457,0084_060073.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-02-02,1958,2,BierwischManfred,JohnsonUwe,255
+uj0458,0118_060100.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1958-07-20,1958,7,BierwischManfred,JohnsonUwe,70
+uj0459,0113_060096.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1958-06-13,1958,6,JohnsonUwe,BaumgärtnerKlaus,697
+uj0460,0142_060120.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1958-10-24,1958,10,BaumgärtnerKlaus,JohnsonUwe,463
+uj0461,0108_000002.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1958-05-25,1958,5,JohnsonUwe,KlemmEberhardt,93
+uj0462,0286_s000015.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1962-03-26,1962,3,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,315
+uj0464,0271_s000008.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine + Baumgärtner, Klaus",1962-01-17,1962,1,JohnsonUwe,BaumgärtnerSabine+BaumgärtnerKlaus,346
+uj0465,0331_s000028.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1962-10-24,1962,10,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,299
+uj0470,0314_101282.xml,letters-leipzig,Brief + Telegramm,"Baumgärtner, Klaus","Johnson, Uwe",1962-08-06,1962,8,BaumgärtnerKlaus,JohnsonUwe,16
+uj0471,0295_060267.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-05-12,1962,5,BaumgärtnerKlaus,JohnsonUwe,326
+uj0474,0308_101281.xml,letters-leipzig,Brief + Schallplatte,"Bierwisch, Manfred","Johnson, Uwe",1962-07-28,1962,7,BierwischManfred,JohnsonUwe,52
+uj0475,0344_101306.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1962-12-10,1962,12,JohnsonUwe,BierwischManfred,1705
+uj0476,0273_060250.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1962-01-21,1962,1,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,451
+uj0477,0335_101296.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-11-08,1962,11,BaumgärtnerKlaus,JohnsonUwe,1256
+uj0478,0343_101305.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred + Zeibig, Brigitte",1962-11-25,1962,11,JohnsonUwe,BierwischManfred+ZeibigBrigitte,486
+uj0481,0275_060252.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-01-24,1962,1,BaumgärtnerKlaus,JohnsonUwe,376
+uj0482,0277_s000011.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1962-01-31,1962,1,JohnsonUwe,BaumgärtnerKlaus,182
+uj0483,0279_060256.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-02-01,1962,2,BaumgärtnerKlaus,JohnsonUwe,128
+uj0484,0342_101304.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1962-11-24,1962,11,JohnsonUwe,BierwischManfred,931
+uj0486,0338_s000030.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1962-11-16,1962,11,JohnsonUwe,BaumgärtnerKlaus,389
+uj0491,0296_s000019.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1962-05-14,1962,5,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,556
+uj0492,0276_060253.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-01-27,1962,1,BaumgärtnerKlaus,JohnsonUwe,589
+uj0494,0283_060258.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-03-06,1962,3,BaumgärtnerKlaus,JohnsonUwe,185
+uj0495,0294_060266.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1962-05-04,1962,5,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,630
+uj0496,0347_s000033.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1962-12-18,1962,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,500
+uj0497,0278_060255.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-02-01,1962,2,BaumgärtnerKlaus,JohnsonUwe,831
+uj0501,0292_060265.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1962-04-24,1962,4,BierwischManfred,JohnsonUwe,199
+uj0504,0304_101272.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1962-07-19,1962,7,JohnsonUwe,BierwischManfred,528
+uj0505,0333_101293.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1962-11-01,1962,11,JohnsonUwe,BierwischManfred,1808
+uj0507,0339_101301.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-11-18,1962,11,BaumgärtnerKlaus,JohnsonUwe,230
+uj0508,0303_101271.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1962-07-14,1962,7,BierwischManfred,JohnsonUwe,519
+uj0509,0272_060249.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-01-19,1962,1,BaumgärtnerKlaus,JohnsonUwe,450
+uj0511,0313_s000022.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Baumgärtner, Klaus",1962-08-04,1962,8,JohnsonUwe,BaumgärtnerKlaus,23
+uj0514,0330_101291.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1962-10-23,1962,10,JohnsonUwe,BierwischManfred,413
+uj0516,0334_s000029.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1962-11-01,1962,11,JohnsonUwe,BaumgärtnerKlaus,358
+uj0520,0299_060271.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1962-06-11,1962,6,BierwischManfred,JohnsonUwe,232
+uj0521,0336_101297.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1962-11-12,1962,11,BierwischManfred,JohnsonUwe,112
+uj0523,0302_101270.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Klemm, Eberhardt","Johnson, Uwe + Baumgärtner, Klaus + Baumgärtner, Sabine",1962-07-10,1962,7,BierwischManfred+KlemmEberhardt,JohnsonUwe+BaumgärtnerKlaus+BaumgärtnerSabine,188
+uj0524,0323_s000034.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1962-09-19,1962,9,JohnsonUwe,BaumgärtnerKlaus,198
+uj0525,0298_000010.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1962-06-06,1962,6,JohnsonUwe,KlemmEberhardt,65
+uj0526,0325_101288.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1962-10-06,1962,10,JohnsonUwe,BierwischManfred,1014
+uj0527,0337_101298.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-11-12,1962,11,BaumgärtnerKlaus,JohnsonUwe,240
+uj0528,0310_101277.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1962-08-02,1962,8,KlemmEberhardt,JohnsonUwe,253
+uj0531,0341_s000031.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1962-11-20,1962,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,76
+uj0533,0345_101307.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-12-16,1962,12,BaumgärtnerKlaus,JohnsonUwe,554
+uj0534,0288_060263.xml,letters-leipzig,Brief,"Johnson, Uwe + Baumgärtner, Klaus","Bierwisch, Manfred",1962-04-11,1962,4,JohnsonUwe+BaumgärtnerKlaus,BierwischManfred,5518
+uj0538,0305_101273.xml,letters-leipzig,Brief + Telegramm,"Baumgärtner, Sabine + Baumgärtner, Klaus + Bierwisch, Manfred","Johnson, Uwe",1962-07-20,1962,7,BaumgärtnerSabine+BaumgärtnerKlaus+BierwischManfred,JohnsonUwe,19
+uj0539,0312_101279.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1962-08-04,1962,8,JohnsonUwe,BaumgärtnerKlaus,410
+uj0540,0348_101309.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1962-12-20,1962,12,BaumgärtnerKlaus,JohnsonUwe,230
+uj0541,0274_s000010.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1962-01-22,1962,1,JohnsonUwe,BaumgärtnerKlaus,286
+uj0542,0740_101191.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1970-03-25,1970,3,BierwischManfred,JohnsonUwe,44
+uj0543,0773_s000241.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1970-12-31,1970,12,JohnsonUwe,BierwischManfred,20
+uj0544,0768_s000074.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine + Baumgärtner, Klaus",1970-11-01,1970,11,JohnsonUwe,BaumgärtnerSabine+BaumgärtnerKlaus,299
+uj0545,0736_101184.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1970-02-09,1970,2,BierwischManfred,JohnsonUwe,1106
+uj0546,0761_000029.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1970-08-09,1970,8,JohnsonUwe,KlemmEberhardt,323
+uj0548,0738_101188.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1970-03-02,1970,3,BaumgärtnerKlaus,JohnsonUwe,96
+uj0550,0749_101200.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1970-06-26,1970,6,BaumgärtnerKlaus,JohnsonUwe,349
+uj0551,0747_101198.xml,letters-leipzig,Brief + Postkarte,"Zeibig, Brigitte","Johnson, Uwe",1970-06-14,1970,6,ZeibigBrigitte,JohnsonUwe,71
+uj0552,0757_s000071.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1970-07-22,1970,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,51
+uj0553,0745_s000072.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1970-05-27,1970,5,JohnsonUwe,BaumgärtnerKlaus,204
+uj0554,0760_101210.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1970-08-06,1970,8,JohnsonUwe,ZeibigBrigitte,413
+uj0555,0763_101213.xml,letters-leipzig,Brief,"Johnson, Uwe + Baumgart, Reinhard","Bierwisch, Manfred",1970-08-21,1970,8,JohnsonUwe+BaumgartReinhard,BierwischManfred,68
+uj0556,0759_101209.xml,letters-leipzig,Brief,"Zeibig, Brigitte","Johnson, Uwe",1970-07-27,1970,7,ZeibigBrigitte,JohnsonUwe,243
+uj0557,0753_101204.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Menzhausen, Joachim",1970-06-29,1970,6,JohnsonUwe,MenzhausenJoachim,20
+uj0558,0762_101212.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1970-08-09,1970,8,BierwischManfred,JohnsonUwe,615
+uj0559,0737_101185.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1970-02-12,1970,2,JohnsonUwe,ZeibigBrigitte,405
+uj0560,0750_s000073.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1970-06-29,1970,6,JohnsonUwe,BaumgärtnerKlaus,105
+uj0561,0742_101193.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1970-04-22,1970,4,BierwischManfred,JohnsonUwe,29
+uj0562,0743_101194.xml,letters-leipzig,Brief,"Zeibig, Brigitte","Johnson, Uwe",1970-05-08,1970,5,ZeibigBrigitte,JohnsonUwe,525
+uj0563,0733_101178.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1970-01-11,1970,1,BaumgärtnerKlaus,JohnsonUwe,538
+uj0564,0748_101199.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1970-06-24,1970,6,JohnsonUwe,ZeibigBrigitte,592
+uj0566,0744_101195.xml,letters-leipzig,Brief,"Zeibig, Brigitte","Johnson, Uwe",1970-05-10,1970,5,ZeibigBrigitte,JohnsonUwe,2125
+uj0567,0755_101206.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1970-07-13,1970,7,KlemmEberhardt,JohnsonUwe,297
+uj0568,0735_101180.xml,letters-leipzig,Brief,"Zeibig, Brigitte","Johnson, Uwe",1970-01-17,1970,1,ZeibigBrigitte,JohnsonUwe,576
+uj0569,0754_101205.xml,letters-leipzig,Brief + Telegramm,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1970-07-08,1970,7,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,15
+uj0570,0764_101215.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Beckermann, Thomas","Johnson, Uwe",1970-09-06,1970,9,BierwischManfred+BeckermannThomas,JohnsonUwe,50
+uj0571,0734_s000070.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1970-01-16,1970,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,165
+uj0572,0758_101208.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1970-07-26,1970,7,JohnsonUwe,BierwischManfred,514
+uj0575,0751_101202.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1970-06-29,1970,6,JohnsonUwe,BierwischManfred,19
+uj0576,0826_000000.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1970-07-17,1970,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,18
+uj0577,0772_101222.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1970-12-31,1970,12,BierwischManfred,JohnsonUwe,457
+uj0578,0770_s000075.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1970-11-22,1970,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,89
+uj0579,0825_000000.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1970-07-16,1970,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,15
+uj0580,0752_101203.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Klemm, Eberhardt",1970-06-29,1970,6,JohnsonUwe,KlemmEberhardt,26
+uj0581,0732_101175.xml,letters-leipzig,Brief,"Johnson, Uwe","Doherty, Monika",1970-01-03,1970,1,JohnsonUwe,DohertyMonika,196
+uj0582,0767_101217.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1970-09-26,1970,9,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,69
+uj0584,0766_101216.xml,letters-leipzig,Brief + Postkarte,"Zeibig, Brigitte","Johnson, Uwe",1970-09-15,1970,9,ZeibigBrigitte,JohnsonUwe,65
+uj0586,0980_101664.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1976-02-28,1976,2,KlemmErika,JohnsonUwe,147
+uj0588,0977_101661.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1976-01-15,1976,1,KlemmErika,JohnsonUwe,236
+uj0589,0978_101662.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1976-01-31,1976,1,JohnsonUwe,KlemmErika,494
+uj0591,0994_101679.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1976-07-26,1976,7,KlemmErika,JohnsonUwe,144
+uj0592,0996_101681.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1976-08-16,1976,8,BierwischManfred,JohnsonUwe,585
+uj0593,0983_101668.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1976-03-17,1976,3,KlemmErika,JohnsonUwe,301
+uj0594,0990_s000104.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1976-05-14,1976,5,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,965
+uj0595,0982_101666.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1976-03-04,1976,3,JohnsonUwe,KlemmErika,527
+uj0596,0986_s000127.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus",1976-04-20,1976,4,JohnsonUwe,BaumgärtnerKlaus,80
+uj0598,0988_000040.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1976-04-30,1976,4,JohnsonUwe,KlemmEberhardt,909
+uj0599,1002_101686.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1976-12-10,1976,12,JohnsonUwe,KlemmErika,950
+uj0600,1003_s000107.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1976-12-14,1976,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,39
+uj0601,0992_101676.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1976-06-24,1976,6,BierwischManfred,JohnsonUwe,156
+uj0602,0991_101675.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1976-06-12,1976,6,JohnsonUwe,BierwischManfred,75
+uj0603,0989_110141.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1976-05-08,1976,5,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,418
+uj0604,0985_101670.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1976-03-29,1976,3,JohnsonUwe,KlemmErika,395
+uj0605,0993_101677.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1976-07-03,1976,7,JohnsonUwe,BierwischManfred,350
+uj0606,0999_s000105.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1976-10-02,1976,10,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,469
+uj0607,0981_101665.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1976-03-03,1976,3,JohnsonUwe,KlemmErika,539
+uj0608,0987_101671.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1976-04-23,1976,4,KlemmEberhardt,JohnsonUwe,674
+uj0609,0997_101682.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1976-08-26,1976,8,JohnsonUwe,BierwischManfred,53
+uj0610,0984_101669.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1976-03-26,1976,3,KlemmErika,JohnsonUwe,182
+uj0611,1001_101685.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1976-11-24,1976,11,KlemmErika,JohnsonUwe,40
+uj0613,0034_060033.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumann, Sabine",1957-01-08,1957,1,JohnsonUwe,BaumannSabine,375
+uj0614,0072_060063.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1957-11-22,1957,11,BaumgärtnerKlaus,JohnsonUwe,281
+uj0615,0037_060036.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1957-03-15,1957,3,BaumgärtnerKlaus,JohnsonUwe,498
+uj0617,0055_060050.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1957-08-22,1957,8,JohnsonUwe,BaumgärtnerKlaus,770
+uj0618,0054_000001.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1957-08-16,1957,8,JohnsonUwe,KlemmEberhardt,41
+uj0619,0067_060060.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-10-24,1957,10,BierwischManfred,JohnsonUwe,185
+uj0620,0042_060043.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1957-06-08,1957,6,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,131
+uj0621,0043_060042.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1957-06-11,1957,6,JohnsonUwe,BierwischManfred,892
+uj0622,0064_060058.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-10-06,1957,10,BierwischManfred,JohnsonUwe,628
+uj0624,0069_060062.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-10-31,1957,10,BierwischManfred,JohnsonUwe,363
+uj0626,0063_060057.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1957-09-21,1957,9,BierwischManfred,JohnsonUwe,112
+uj0628,0046_060045.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1957-07-07,1957,7,BaumgärtnerKlaus,JohnsonUwe,133
+uj0629,0036_060035.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1957-03-05,1957,3,JohnsonUwe,BaumgärtnerKlaus,437
+uj0630,0061_060055.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-09-12,1957,9,BierwischManfred,JohnsonUwe,635
+uj0631,0060_060054.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1957-09-12,1957,9,BaumgärtnerKlaus,JohnsonUwe,23
+uj0632,0049_060047.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-07-18,1957,7,BierwischManfred,JohnsonUwe,269
+uj0633,0048_110110.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-07-13,1957,7,BierwischManfred,JohnsonUwe,872
+uj0634,0062_060056.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",0000-00-00,0,0,BierwischManfred,JohnsonUwe,184
+uj0635,0056_060051.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1957-09-02,1957,9,BaumgärtnerKlaus,JohnsonUwe,225
+uj0636,0059_060053.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1957-09-10,1957,9,JohnsonUwe,BierwischManfred,190
+uj0637,0047_060046.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1957-07-08,1957,7,BaumgärtnerKlaus,JohnsonUwe,156
+uj0638,0041_060041.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-05-29,1957,5,BierwischManfred,JohnsonUwe,969
+uj0639,0070_110111.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-11-09,1957,11,BierwischManfred,JohnsonUwe,372
+uj0640,0076_110112.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1957-12-10,1957,12,JohnsonUwe,BaumgärtnerKlaus,783
+uj0642,0065_060059.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-10-21,1957,10,BierwischManfred,JohnsonUwe,492
+uj0643,0057_060052.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-09-05,1957,9,BierwischManfred,JohnsonUwe,472
+uj0644,0053_060049.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1957-08-14,1957,8,BaumgärtnerKlaus,JohnsonUwe,282
+uj0645,0039_060038.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1957-05-27,1957,5,JohnsonUwe,BierwischManfred,950
+uj0646,0075_060065.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-12-06,1957,12,BierwischManfred,JohnsonUwe,346
+uj0647,0068_060061.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1957-10-29,1957,10,BaumgärtnerKlaus,JohnsonUwe,333
+uj0648,0045_110109.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1957-07-07,1957,7,JohnsonUwe,BierwischManfred,1216
+uj0649,0044_060044.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-06-23,1957,6,BierwischManfred,JohnsonUwe,1415
+uj0650,0077_060066.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-12-13,1957,12,BierwischManfred,JohnsonUwe,565
+uj0652,0058_s000002.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1957-09-07,1957,9,JohnsonUwe,BaumgärtnerKlaus,238
+uj0653,0073_s000003.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1957-11-22,1957,11,JohnsonUwe,BaumgärtnerKlaus,432
+uj0654,0074_060064.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1957-12-04,1957,12,BaumgärtnerKlaus,JohnsonUwe,177
+uj0655,0050_060048.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe + Schmidt, Elisabeth",1957-08-04,1957,8,BierwischManfred,JohnsonUwe+SchmidtElisabeth,820
+uj0656,0038_100103.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1957-05-13,1957,5,BierwischManfred,JohnsonUwe,328
+uj0657,0040_060040.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe + Baumgärtner, Klaus + Spott, Margot",1957-05-28,1957,5,BierwischManfred,JohnsonUwe+BaumgärtnerKlaus+SpottMargot,765
+uj0658,0247_060217.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1961-07-07,1961,7,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,658
+uj0660,0249_060218.xml,letters-leipzig,Dokument,"Bierwisch, Manfred + Baumgärtner, Sabine + Klemm, Eberhardt + Schmidt, Elisabeth + Schultze, Heidi + Baumgärtner, Klaus","Johnson, Uwe",1961-07-15,1961,7,BierwischManfred+BaumgärtnerSabine+KlemmEberhardt+SchmidtElisabeth+SchultzeHeidi+BaumgärtnerKlaus,JohnsonUwe,441
+uj0661,0237_060206.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1961-05-26,1961,5,BierwischManfred,JohnsonUwe,1388
+uj0662,0236_060209.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1961-05-22,1961,5,JohnsonUwe,BaumgärtnerKlaus,545
+uj0663,0257_060226.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1961-07-29,1961,7,BaumgärtnerKlaus,JohnsonUwe,224
+uj0664,0264_060234.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred + Zeibig, Brigitte","Johnson, Uwe",1961-09-18,1961,9,BierwischManfred+ZeibigBrigitte,JohnsonUwe,366
+uj0665,0235_060205.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-05-20,1961,5,BaumgärtnerKlaus,JohnsonUwe,453
+uj0666,0252_060221.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-07-10,1961,7,BaumgärtnerKlaus,JohnsonUwe,326
+uj0667,0245_060214.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine + Bierwisch, Manfred + Baumgärtner, Klaus",1961-07-04,1961,7,JohnsonUwe,BaumgärtnerSabine+BierwischManfred+BaumgärtnerKlaus,1306
+uj0668,0248_060216.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,374
+uj0669,0258_060227.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-07-30,1961,7,BaumgärtnerKlaus,JohnsonUwe,633
+uj0670,0231_060202.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1961-05-02,1961,5,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,835
+uj0672,0242_060212.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-06-18,1961,6,BaumgärtnerKlaus,JohnsonUwe,2111
+uj0673,0250_060219.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1961-07-16,1961,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,2145
+uj0674,0232_060203.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1960-05-17,1960,5,BierwischManfred,JohnsonUwe,505
+uj0678,0254_060223.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1961-07-22,1961,7,JohnsonUwe,BaumgärtnerKlaus,413
+uj0679,0228_060199.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1961-02-15,1961,2,JohnsonUwe,BaumgärtnerKlaus,348
+uj0680,0239_060210.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1961-06-01,1961,6,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,1291
+uj0681,0246_060215.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1961-07-07,1961,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,1708
+uj0682,0244_060213.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-06-25,1961,6,BaumgärtnerKlaus,JohnsonUwe,601
+uj0683,0268_060244.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-12-13,1961,12,BaumgärtnerKlaus,JohnsonUwe,161
+uj0684,0265_060235.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Baumgärtner, Klaus","Johnson, Uwe",1961-09-27,1961,9,BierwischManfred+BaumgärtnerKlaus,JohnsonUwe,511
+uj0685,0253_060222.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1961-07-20,1961,7,BierwischManfred,JohnsonUwe,1188
+uj0686,0226_060198.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-02-12,1961,2,BaumgärtnerKlaus,JohnsonUwe,381
+uj0687,0266_060239.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1961-11-05,1961,11,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,179
+uj0688,0229_060200.xml,letters-leipzig,Dokument,"Baumgärtner, Klaus","Johnson, Uwe",1961-03-14,1961,3,BaumgärtnerKlaus,JohnsonUwe,63
+uj0691,0251_060220.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1961-07-18,1961,7,KlemmEberhardt,JohnsonUwe,497
+uj0692,0241_060211.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1961-06-15,1961,6,BierwischManfred,JohnsonUwe,887
+uj0693,0256_060225.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred + Baumgärtner, Klaus",1961-07-26,1961,7,JohnsonUwe,BierwischManfred+BaumgärtnerKlaus,559
+uj0694,0269_060247.xml,letters-leipzig,Brief + Telegramm,"Bierwisch, Manfred","Johnson, Uwe",1961-12-25,1961,12,BierwischManfred,JohnsonUwe,16
+uj0695,0262_s000006.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1961-08-06,1961,8,JohnsonUwe,BaumgärtnerKlaus,554
+uj0696,0261_s000153.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1961-08-05,1961,8,JohnsonUwe,BierwischManfred,952
+uj0697,0233_060204.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1961-05-16,1961,5,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,1459
+uj0698,0260_s000005.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1961-08-04,1961,8,JohnsonUwe,BaumgärtnerKlaus,506
+uj0699,0255_000009.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1961-07-25,1961,7,JohnsonUwe,KlemmEberhardt,765
+uj0700,0230_060201.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1961-03-23,1961,3,BaumgärtnerKlaus,JohnsonUwe,33
+uj0701,0259_060228.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1961-08-01,1961,8,BierwischManfred,JohnsonUwe,531
+uj0702,0031_060032.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1956-11-23,1956,11,BierwischManfred,JohnsonUwe,74
+uj0703,0030_060031.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1956-11-10,1956,11,JohnsonUwe,BaumgärtnerKlaus,464
+uj0704,0027_060028.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1956-10-17,1956,10,MenzhausenJoachim,JohnsonUwe,311
+uj0705,0032_100107.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred + Baumgärtner, Klaus",1956-12-01,1956,12,JohnsonUwe,BierwischManfred+BaumgärtnerKlaus,593
+uj0706,0025_060026.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1956-06-21,1956,6,BaumgärtnerKlaus,JohnsonUwe,80
+uj0707,0029_060030.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1956-11-01,1956,11,BaumgärtnerKlaus,JohnsonUwe,85
+uj0708,0033_060034.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumann, Sabine","Johnson, Uwe",1956-12-31,1956,12,BaumgärtnerKlaus+BaumannSabine,JohnsonUwe,83
+uj0709,0026_060027.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1956-06,1956,6,BierwischManfred,JohnsonUwe,206
+uj0710,0023_060024.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1956-01-18,1956,1,BierwischManfred,JohnsonUwe,124
+uj0711,0028_060029.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1956-10-31,1956,10,BaumgärtnerKlaus,JohnsonUwe,185
+uj0712,0024_060025.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1956-02-20,1956,2,BierwischManfred,JohnsonUwe,274
+uj0713,1121_101851.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1982-08-10,1982,8,KlemmEberhardt,JohnsonUwe,108
+uj0714,1111_101829.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1982-01-21,1982,1,JohnsonUwe,BierwischManfred,356
+uj0715,1112_101830.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1982-01-22,1982,1,JohnsonUwe,KlemmIne,952
+uj0716,1120_101850.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1982-08-07,1982,8,MenzhausenJoachim,JohnsonUwe,598
+uj0717,1122_101852.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim",1982-08-15,1982,8,JohnsonUwe,MenzhausenJoachim,899
+uj0718,1128_101862.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1982-11-24,1982,11,KlemmErika,JohnsonUwe,37
+uj0719,1110_101831.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1982-01-14,1982,1,KlemmErika,JohnsonUwe,33
+uj0720,1126_101856.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1982-09-17,1982,9,BierwischManfred,JohnsonUwe,40
+uj0721,1127_101859.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1982-09-28,1982,9,JohnsonUwe,KlemmEberhardt,457
+uj0722,1115_101837.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1982-03-31,1982,3,KlemmErika,JohnsonUwe,76
+uj0723,1118_101848.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1982-07-07,1982,7,JohnsonUwe,KlemmErika,841
+uj0724,1124_101855.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim",1982-09-07,1982,9,JohnsonUwe,MenzhausenJoachim,1403
+uj0725,1116_101838.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1982-05-25,1982,5,KlemmErika,JohnsonUwe,145
+uj0726,1125_101857.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,82
+uj0727,1113_101832.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1982-02-02,1982,2,JohnsonUwe,KlemmErika,54
+uj0728,1119_101849.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1982-07-28,1982,7,KlemmErika,JohnsonUwe,41
+uj0729,1109_101828.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1982-01-02,1982,1,BierwischManfred,JohnsonUwe,86
+uj0730,1114_101836.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1982-03-13,1982,3,KlemmIne,JohnsonUwe,503
+uj0731,1123_101854.xml,letters-leipzig,Brief,"Menzhausen, Joachim","Johnson, Uwe",1982-09-01,1982,9,MenzhausenJoachim,JohnsonUwe,793
+uj0732,1117_101844.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1982-06,1982,6,KlemmErika,JohnsonUwe,77
+uj0734,0807_101256.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus,JohnsonUwe,67
+uj0735,0776_101225.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-01-23,1971,1,BierwischManfred,JohnsonUwe,355
+uj0736,0809_101259.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1971-11-27,1971,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,149
+uj0737,0775_101224.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1971-01-11,1971,1,JohnsonUwe,BaumgärtnerKlaus,137
+uj0738,0790_101240.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-05-08,1971,5,BierwischManfred,JohnsonUwe,191
+uj0739,0779_s000076.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1971-01-31,1971,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,33
+uj0740,0780_101229.xml,letters-leipzig,Brief + Umschlag,"Baumgärtner, Klaus","Johnson, Uwe",1971-02-01,1971,2,BaumgärtnerKlaus,JohnsonUwe,182
+uj0741,0785_101234.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1971-03-05,1971,3,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,67
+uj0742,0813_101263.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1971-12-11,1971,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,293
+uj0743,0792_101242.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Baumgärtner, Klaus",1971-05-14,1971,5,JohnsonUwe,BaumgärtnerKlaus,25
+uj0744,0805_101255.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1971-10-20,1971,10,JohnsonUwe,BaumgärtnerKlaus,51
+uj0745,0810_101260.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus,JohnsonUwe,52
+uj0747,0782_s000077.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1971-02-10,1971,2,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,37
+uj0748,0781_101231.xml,letters-leipzig,Brief,"Johnson, Uwe","Schultze, Heidi",1971-02-10,1971,2,JohnsonUwe,SchultzeHeidi,62
+uj0749,0806_101257.xml,letters-leipzig,Brief + Postkarte,"Zeibig, Brigitte","Johnson, Uwe",1971-10-20,1971,10,ZeibigBrigitte,JohnsonUwe,61
+uj0750,0802_101252.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-08-17,1971,8,JohnsonUwe,BierwischManfred,428
+uj0751,0788_101238.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1971-03-29,1971,3,JohnsonUwe,BaumgärtnerKlaus,41
+uj0752,0800_101250.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1971-07-21,1971,7,JohnsonUwe,BaumgärtnerSabine,94
+uj0754,0783a_101230.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1970-07-17,1970,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,18
+uj0755,0797_101247.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-07-18,1971,7,BierwischManfred,JohnsonUwe,22
+uj0756,0816_101267.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Sabine","Johnson, Uwe",1971-12-23,1971,12,BaumgärtnerSabine,JohnsonUwe,70
+uj0757,0816a_000065.xml,letters-leipzig,Brief + Telegramm + Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1972,1972,,JohnsonUwe,KlemmEberhardt,172
+uj0758,0799_101249.xml,letters-leipzig,Brief + Telegramm,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1971-07-20,1971,7,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,17
+uj0759,0774_101223.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-01-07,1971,1,JohnsonUwe,BierwischManfred,183
+uj0760,0804_101254.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1971-10-17,1971,10,BaumgärtnerKlaus,JohnsonUwe,214
+uj0761,0789_101239.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1971-05-07,1971,5,JohnsonUwe,BierwischManfred,21
+uj0762,0787_101236.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Baumgärtner, Klaus",1971-03-14,1971,3,JohnsonUwe,BaumgärtnerKlaus,20
+uj0763,0803_101253.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1971-10-13,1971,10,JohnsonUwe,BaumgärtnerKlaus,111
+uj0764,0801_101251.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-07-21,1971,7,BierwischManfred,JohnsonUwe,24
+uj0767,0777_101226.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-01-26,1971,1,JohnsonUwe,BierwischManfred,1428
+uj0768,0793_101243.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-06-11,1971,6,BierwischManfred,JohnsonUwe,1504
+uj0769,0794_101244.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-06-17,1971,6,JohnsonUwe,BierwischManfred,125
+uj0770,0798_101248.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-07-18,1971,7,JohnsonUwe,BierwischManfred,128
+uj0771,0795_101245.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-07-09,1971,7,BierwischManfred,JohnsonUwe,162
+uj0772,0815_s000080.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1971-12-21,1971,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,320
+uj0773,0783_101232.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1971-02-11,1971,2,BierwischManfred,JohnsonUwe,1092
+uj0774,0786_101235.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-03-13,1971,3,JohnsonUwe,BierwischManfred,191
+uj0775,0784_s000078.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine + Baumgärtner, Klaus",1971-03-04,1971,3,JohnsonUwe,BaumgärtnerSabine+BaumgärtnerKlaus,398
+uj0776,0796_101246.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1971-07-10,1971,7,JohnsonUwe,BierwischManfred,49
+uj0777,1138_101875.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1984,1984,,KlemmIne,JohnsonUwe,120
+uj0778,1137_101874.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,120
+uj0779,1139_101876.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1984-01-12,1984,1,JohnsonUwe,KlemmIne,457
+uj0780,1140_101877.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1984-02-21,1984,2,KlemmIne,JohnsonUwe,81
+uj0781,1136_101873.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1984-01-09,1984,1,KlemmErika,JohnsonUwe,38
+uj0782,0540_100920.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1965-04-20,1965,4,KlemmEberhardt,JohnsonUwe,205
+uj0783,0575_100949.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1965-09-07,1965,9,KlemmEberhardt,JohnsonUwe,111
+uj0784,0531_100909.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1965-03-07,1965,3,KlemmEberhardt,JohnsonUwe,82
+uj0785,0548_100925.xml,letters-leipzig,Brief,"Johnson, Uwe","Jäckel, Ine",1965-05-21,1965,5,JohnsonUwe,JäckelIne,369
+uj0786,0544_000023.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1965-05-12,1965,5,JohnsonUwe,KlemmEberhardt,158
+uj0787,0564_100937.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-07-16,1965,7,BierwischManfred,JohnsonUwe,69
+uj0788,0568_100946.xml,letters-leipzig,Brief + Postkarte,"Klemm, Ine","Johnson, Uwe",1965-08-11,1965,8,KlemmIne,JohnsonUwe,33
+uj0791,0534_100912.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-03-17,1965,3,BierwischManfred,JohnsonUwe,2425
+uj0792,0561_100936.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-07-08,1965,7,BierwischManfred,JohnsonUwe,383
+uj0793,0567_100945.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1965-08-07,1965,8,KlemmEberhardt,JohnsonUwe,214
+uj0794,0569_103033.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1965-08-16,1965,8,KlemmEberhardt,JohnsonUwe,55
+uj0795,0554_100932.xml,letters-leipzig,Brief,"Zeibig, Brigitte","Johnson, Uwe",1965-06-13,1965,6,ZeibigBrigitte,JohnsonUwe,563
+uj0796,0557_100935.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-06-20,1965,6,BierwischManfred,JohnsonUwe,345
+uj0800,0559_000057.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1965-06,1965,6,JohnsonUwe,KlemmEberhardt,49
+uj0801,0573_103061.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1965-08-28,1965,8,KlemmEberhardt,JohnsonUwe,59
+uj0802,0570_100947.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1965-08-19,1965,8,KlemmEberhardt,JohnsonUwe,109
+uj0803,0576_000062.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1965-09-14,1965,9,JohnsonUwe,KlemmEberhardt,58
+uj0804,0546_100928.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-05-13,1965,5,BierwischManfred,JohnsonUwe,327
+uj0805,0525_100901.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1965-01-08,1965,1,JohnsonUwe,BierwischManfred,352
+uj0806,0536_s000156.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1965-03-19,1965,3,JohnsonUwe,BierwischManfred,384
+uj0807,0553_100931.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-06-07,1965,6,BierwischManfred,JohnsonUwe,1165
+uj0808,0524_100900.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-01-05,1965,1,BierwischManfred,JohnsonUwe,344
+uj0809,0563_100942.xml,letters-leipzig,Brief,"Jäckel, Erika","Johnson, Uwe",1965-07-10,1965,7,JäckelErika,JohnsonUwe,22
+uj0811,0549_000022.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1965-05-24,1965,5,JohnsonUwe,KlemmEberhardt,154
+uj0812,0538_100918.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-03-23,1965,3,BierwischManfred,JohnsonUwe,681
+uj0813,0577_100950.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1965-09-25,1965,9,KlemmEberhardt,JohnsonUwe,91
+uj0814,0580_100953.xml,letters-leipzig,Brief + Telegramm,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1965-10-03,1965,10,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,20
+uj0815,0526_100902.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-02-11,1965,2,BierwischManfred,JohnsonUwe,1031
+uj0817,0523_000064.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",0000-00-00,0,0,JohnsonUwe,KlemmEberhardt,96
+uj0818,0555_100934.xml,letters-leipzig,Brief + Telegramm,"Bierwisch, Manfred","Johnson, Uwe",1965-06-18,1965,6,BierwischManfred,JohnsonUwe,15
+uj0819,0530_000021.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1965-03-04,1965,3,JohnsonUwe,KlemmEberhardt,131
+uj0820,0537_s000060.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1965-03-19,1965,3,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,125
+uj0821,0528_100904.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1965-02-19,1965,2,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,809
+uj0823,0562_100941.xml,letters-leipzig,Brief,"Jäckel, Ine","Johnson, Uwe",1965-07-10,1965,7,JäckelIne,JohnsonUwe,72
+uj0824,0571_103060.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1965-08-23,1965,8,KlemmEberhardt,JohnsonUwe,89
+uj0827,0587_100961.xml,letters-leipzig,Brief + Telegramm,"Bierwisch, Manfred","Johnson, Uwe",1965-12-29,1965,12,BierwischManfred,JohnsonUwe,16
+uj0829,0527_100903.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1965-02-17,1965,2,JohnsonUwe,BierwischManfred,340
+uj0830,0551_100927.xml,letters-leipzig,Brief,"Jäckel, Erika","Johnson, Uwe",1965-05-21,1965,5,JäckelErika,JohnsonUwe,93
+uj0831,0582_100956.xml,letters-leipzig,Brief + Telegramm,"Klemm, Eberhardt","Johnson, Uwe",1965-11-06,1965,11,KlemmEberhardt,JohnsonUwe,16
+uj0832,0532_100910.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1965-03-08,1965,3,BierwischManfred,JohnsonUwe,275
+uj0833,0586_100959.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1965-12-20,1965,12,KlemmEberhardt,JohnsonUwe,79
+uj0834,0572_103034.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1965-08-27,1965,8,KlemmEberhardt,JohnsonUwe,81
+uj0835,0550_100926.xml,letters-leipzig,Brief,"Jäckel, Ine + Jäckel, Erika","Johnson, Uwe",1965-05-21,1965,5,JäckelIne+JäckelErika,JohnsonUwe,34
+uj0836,0565_100943.xml,letters-leipzig,Brief + Telegramm,"Klemm, Eberhardt","Johnson, Uwe",1965-07-22,1965,7,KlemmEberhardt,JohnsonUwe,24
+uj0837,0535_100914.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1965-03-18,1965,3,BaumgärtnerKlaus,JohnsonUwe,68
+uj0839,0574_100948.xml,letters-leipzig,Brief + Telegramm,"Bierwisch, Manfred","Johnson, Uwe",1965-09-03,1965,9,BierwischManfred,JohnsonUwe,16
+uj0841,0533_s000059.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1965-03-08,1965,3,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,99
+uj0842,0566_100944.xml,letters-leipzig,Brief + Telegramm,"Menzhausen, Joachim","Johnson, Uwe",1965-08-04,1965,8,MenzhausenJoachim,JohnsonUwe,16
+uj0843,0547_100929.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1965-05-14,1965,5,KlemmEberhardt,JohnsonUwe,493
+uj0844,0558_000054.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1965-06,1965,6,JohnsonUwe,KlemmEberhardt,93
+uj0845,0578_100951.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1965-09-27,1965,9,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,44
+uj0847,0585_100957.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Sabine","Johnson, Uwe",1965-12-15,1965,12,BaumgärtnerSabine,JohnsonUwe,31
+uj0848,0400_101364.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-09-24,1963,9,JohnsonUwe,BierwischManfred,367
+uj0849,0374_101335.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-07-08,1963,7,BierwischManfred,JohnsonUwe,75
+uj0851,0395_101361.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Sabine","Johnson, Uwe",1963-09-02,1963,9,BaumgärtnerSabine,JohnsonUwe,59
+uj0853,0393_101358.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-08-27,1963,8,BierwischManfred,JohnsonUwe,57
+uj0854,0408_101372.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-11-22,1963,11,JohnsonUwe,BierwischManfred,435
+uj0855,0375_101336.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-07-08,1963,7,BierwischManfred,JohnsonUwe,1003
+uj0856,0353_s000036.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1963-01-29,1963,1,JohnsonUwe,BaumgärtnerKlaus,101
+uj0857,0358_101319.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-03-03,1963,3,JohnsonUwe,BierwischManfred,40
+uj0859,0354_101316.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1963-02-08,1963,2,BaumgärtnerKlaus,JohnsonUwe,580
+uj0860,0388_101354.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-08-14,1963,8,BierwischManfred,JohnsonUwe,552
+uj0863,0391_101356.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-08-22,1963,8,BierwischManfred,JohnsonUwe,1277
+uj0864,0365_101333.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-06-05,1963,6,BierwischManfred,JohnsonUwe,83
+uj0865,0406_101370.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1963-11-08,1963,11,BaumgärtnerKlaus,JohnsonUwe,1234
+uj0866,0390_101355.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-08-19,1963,8,JohnsonUwe,BierwischManfred,879
+uj0867,0356_101317.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-02-15,1963,2,BierwischManfred,JohnsonUwe,423
+uj0868,0370_101330.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-06-11,1963,6,JohnsonUwe,BierwischManfred,236
+uj0871,0378_000015.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1963-07-22,1963,7,JohnsonUwe,KlemmEberhardt,361
+uj0873,0389_103031.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1963-08-14,1963,8,KlemmEberhardt,JohnsonUwe,84
+uj0875,0404_101368.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-10-25,1963,10,BierwischManfred,JohnsonUwe,40
+uj0876,0385_101351.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-08-08,1963,8,BierwischManfred,JohnsonUwe,61
+uj0878,0382_101344.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-08-05,1963,8,JohnsonUwe,BierwischManfred,1431
+uj0879,0373_101334.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1963-06-29,1963,6,JohnsonUwe,BaumgärtnerSabine,130
+uj0880,0407_s000040.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1963-11-15,1963,11,JohnsonUwe,BaumgärtnerKlaus,121
+uj0881,0369_101329.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-06-11,1963,6,BierwischManfred,JohnsonUwe,526
+uj0882,0409_101373.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-11-28,1963,11,BierwischManfred,JohnsonUwe,1156
+uj0885,0360_101322.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-05-02,1963,5,BierwischManfred,JohnsonUwe,34
+uj0886,0399_101363.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-09-22,1963,9,BierwischManfred,JohnsonUwe,124
+uj0887,0366_101327.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-06-07,1963,6,JohnsonUwe,BierwischManfred,445
+uj0888,0377_101338.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-07-16,1963,7,JohnsonUwe,BierwischManfred,1369
+uj0889,0379_s000038.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1963-07-27,1963,7,JohnsonUwe,BaumgärtnerSabine,85
+uj0890,0401_101365.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-09-27,1963,9,BierwischManfred,JohnsonUwe,866
+uj0891,0402_101366.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1963-09-29,1963,9,BaumgärtnerKlaus,JohnsonUwe,23
+uj0892,0363_101325.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-05-16,1963,5,JohnsonUwe,BierwischManfred,291
+uj0893,0411_101375.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-12-16,1963,12,BierwischManfred,JohnsonUwe,451
+uj0894,0405_101369.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-10-31,1963,10,BierwischManfred,JohnsonUwe,43
+uj0895,0392_101357.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-08-27,1963,8,JohnsonUwe,BierwischManfred,1100
+uj0896,0383_101349.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1963-08-05,1963,8,JohnsonUwe,KlemmEberhardt,243
+uj0897,0380_101341.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-07-29,1963,7,BierwischManfred,JohnsonUwe,1375
+uj0898,0394_101359.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-08-28,1963,8,BierwischManfred,JohnsonUwe,27
+uj0899,0357_101318.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1963-02-19,1963,2,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,265
+uj0900,0398_101379.xml,letters-leipzig,Dokument + Fragebogen + Interview,"Baumgärtner, Klaus + Baumgärtner, Sabine + Menzhausen, Joachim","Johnson, Uwe",1963-09-07,1963,9,BaumgärtnerKlaus+BaumgärtnerSabine+MenzhausenJoachim,JohnsonUwe,338
+uj0902,0351_101311.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-01-06,1963,1,JohnsonUwe,BierwischManfred,510
+uj0903,0410_101374.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1963-12-13,1963,12,JohnsonUwe,BierwischManfred,440
+uj0904,0403_101367.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-10-02,1963,10,BierwischManfred,JohnsonUwe,348
+uj0905,0372_000013.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1963-06-22,1963,6,JohnsonUwe,KlemmEberhardt,377
+uj0906,0376_101337.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1963-07-15,1963,7,KlemmEberhardt,JohnsonUwe,291
+uj0907,0361_101323.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1963-05-09,1963,5,BierwischManfred,JohnsonUwe,24
+uj0908,0359_101321.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1963-04-03,1963,4,BierwischManfred,JohnsonUwe,65
+uj0909,0355_s000037.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1963-02-11,1963,2,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,84
+uj0910,1022_101705.xml,letters-leipzig,Brief,"Baumgärtner, Sabine","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerSabine,JohnsonUwe,25
+uj0911,1026_101709.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1977-09-19,1977,9,KlemmEberhardt,JohnsonUwe,53
+uj0912,1029_101712.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1977-09-27,1977,9,JohnsonUwe,BierwischManfred,482
+uj0913,1008_101691.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-01-12,1977,1,JohnsonUwe,KlemmErika,421
+uj0914,1022a_000041.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1977-07-06,1977,7,JohnsonUwe,KlemmEberhardt,66
+uj0915,1019_101702.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1977-06-12,1977,6,BierwischManfred,JohnsonUwe,410
+uj0916,1023_101706.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1977-07-07,1977,7,BierwischManfred,JohnsonUwe,362
+uj0917,1031_101715.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1977-12-05,1977,12,JohnsonUwe,KlemmEberhardt,57
+uj0918,1028_000042.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1977-09-26,1977,9,JohnsonUwe,KlemmEberhardt,845
+uj0920,1018_101701.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-06-10,1977,6,JohnsonUwe,KlemmErika,78
+uj0921,1021_000248.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1977-06-21,1977,6,JohnsonUwe,BierwischManfred,427
+uj0922,1027_101710.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1977-09-22,1977,9,BierwischManfred,JohnsonUwe,62
+uj0923,1009_000109.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1977-01-18,1977,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,43
+uj0924,1032_101716.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1977-10-29,1977,10,KlemmErika,JohnsonUwe,127
+uj0925,1017_101700.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1977-06-10,1977,6,KlemmErika,JohnsonUwe,37
+uj0926,1025_101708.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1977-08-10,1977,8,BierwischManfred,JohnsonUwe,173
+uj0927,1004_000108.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1977-01-03,1977,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,678
+uj0928,1012_101694.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-04-06,1977,4,JohnsonUwe,KlemmErika,501
+uj0929,1011_101693.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1977-03-10,1977,3,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,46
+uj0930,1006_101689.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",0000-00-00,0,0,KlemmErika,JohnsonUwe,43
+uj0931,1020_101703.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-06-13,1977,6,JohnsonUwe,KlemmErika,179
+uj0932,1010_101692.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-01-26,1977,1,JohnsonUwe,KlemmErika,190
+uj0933,1007_101690.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1977-01-09,1977,1,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,86
+uj0934,1005_101688.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1977-01-07,1977,1,KlemmErika,JohnsonUwe,54
+uj0935,1030_101713.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-11-29,1977,11,JohnsonUwe,KlemmErika,963
+uj0936,1015_000247.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1977-06-09,1977,6,JohnsonUwe,BierwischManfred,262
+uj0937,1016_101697.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-06-09,1977,6,JohnsonUwe,KlemmErika,191
+uj0938,1024_101707.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1977-08-03,1977,8,KlemmEberhardt,JohnsonUwe,301
+uj0939,1014_101696.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1977-05-04,1977,5,JohnsonUwe,KlemmErika,528
+uj0941,0216_060188.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-08-23,1960,8,BaumgärtnerKlaus,JohnsonUwe,394
+uj0942,0222_060193.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1960-10-26,1960,10,JohnsonUwe,BaumgärtnerKlaus,445
+uj0943,0221_060192.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-10-23,1960,10,BaumgärtnerKlaus,JohnsonUwe,219
+uj0944,0220_060191.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1960-10-22,1960,10,BierwischManfred,JohnsonUwe,341
+uj0945,0214_060184.xml,letters-leipzig,Verschiedenes + Notiz,"Johnson, Uwe","Baumgärtner, Klaus",1960-08-10,1960,8,JohnsonUwe,BaumgärtnerKlaus,135
+uj0946,0219_060190.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-10-15,1960,10,BaumgärtnerKlaus,JohnsonUwe,281
+uj0947,0198_060167.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-06-20,1960,6,BaumgärtnerKlaus,JohnsonUwe,146
+uj0948,0209_060181.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe + Schmidt, Elisabeth",1960-08-06,1960,8,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe+SchmidtElisabeth,284
+uj0949,0202_060171.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine + Bierwisch, Manfred",1960-07-23,1960,7,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine+BierwischManfred,421
+uj0950,0206_060178.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-08-01,1960,8,BaumgärtnerKlaus,JohnsonUwe,391
+uj0952,0196_060165.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-02-22,1960,2,BaumgärtnerKlaus,JohnsonUwe,244
+uj0953,0211_060183.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus,JohnsonUwe,141
+uj0954,0217_101920.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1960-08-28,1960,8,BierwischManfred,JohnsonUwe,170
+uj0955,0200_060169.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1960-07-14,1960,7,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,1409
+uj0956,0218_060189.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe + Schmidt, Elisabeth",1960-09-16,1960,9,BierwischManfred,JohnsonUwe+SchmidtElisabeth,1017
+uj0957,0201_060170.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1960-07-19,1960,7,BierwischManfred+BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,144
+uj0958,0210_060182.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe + Schmidt, Elisabeth",1960-08-08,1960,8,BaumgärtnerKlaus,JohnsonUwe+SchmidtElisabeth,554
+uj0959,0195_060164.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus,JohnsonUwe,29
+uj0960,0223_060194.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1960-11-01,1960,11,BaumgärtnerKlaus,JohnsonUwe,87
+uj0961,0197_060166.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1960-03,1960,3,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,427
+uj0962,0207_060179.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1960-08-08,1960,8,BierwischManfred,JohnsonUwe,737
+uj0963,0203_060172.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-07-25,1960,7,BaumgärtnerKlaus,JohnsonUwe,531
+uj0964,0205_060174.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1960-07-30,1960,7,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,385
+uj0965,0208_060180.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine + Baumgärtner, Klaus",1960-08-04,1960,8,JohnsonUwe,BaumgärtnerSabine+BaumgärtnerKlaus,430
+uj0966,0213_060187.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe + Schmidt, Elisabeth",1960-08-23,1960,8,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe+SchmidtElisabeth,788
+uj0967,0204_060173.xml,letters-leipzig,Brief,"Baumgärtner, Sabine","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerSabine,JohnsonUwe,83
+uj0968,0194_060162.xml,letters-leipzig,Dokument + Vertrag,"Johnson, Uwe + Baumgärtner, Klaus + Bierwisch, Manfred + Menzhausen, Joachim + Klemm, Eberhardt",,1960-01-23,1960,1,JohnsonUwe+BaumgärtnerKlaus+BierwischManfred+MenzhausenJoachim+KlemmEberhardt,,426
+uj0969,0199_060168.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1960-06-24,1960,6,KlemmEberhardt,JohnsonUwe,78
+uj0970,0212_060186.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1960-08-10,1960,8,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,852
+uj0971,0225_060197.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1960-12-23,1960,12,BaumgärtnerKlaus,JohnsonUwe,79
+uj0972,1130_101864.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",0000-00-00,0,0,KlemmIne,JohnsonUwe,369
+uj0973,1134_101868.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim",1983-12-10,1983,12,JohnsonUwe,MenzhausenJoachim,488
+uj0974,1131_101865.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1983-10-31,1983,10,KlemmErika,JohnsonUwe,42
+uj0975,1135_101869.xml,letters-leipzig,Brief,"Menzhausen, Joachim + Menzhausen, Ingelore","Johnson, Uwe",1983-12-11,1983,12,MenzhausenJoachim+MenzhausenIngelore,JohnsonUwe,335
+uj0976,1129_101863.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1983-04-22,1983,4,KlemmEberhardt,JohnsonUwe,132
+uj0977,1132_101866.xml,letters-leipzig,Brief + Photographie,"Klemm, Erika","Johnson, Uwe",1983-11-14,1983,11,KlemmErika,JohnsonUwe,40
+uj0978,1133_101867.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1983-12-05,1983,12,BierwischManfred,JohnsonUwe,46
+uj0979,0729_s000238.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1969-12-16,1969,12,JohnsonUwe,BierwischManfred,71
+uj0980,0698_101143.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1969-08-28,1969,8,JohnsonUwe,KlemmErika,295
+uj0981,0649_s000208.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1969-01-31,1969,1,JohnsonUwe,BierwischManfred,373
+uj0982,0695_101140.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1969-08-16,1969,8,DohertyMonika,JohnsonUwe,385
+uj0983,0678_s000221.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1969-07-11,1969,7,JohnsonUwe,BierwischManfred,22
+uj0984,0723_101166.xml,letters-leipzig,Brief,"Baumgärtner, Sabine","Johnson, Uwe",1969-11-25,1969,11,BaumgärtnerSabine,JohnsonUwe,96
+uj0985,0677_s000219.xml,letters-leipzig,Brief + Photographie + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1969-07-08,1969,7,JohnsonUwe,BierwischManfred,147
+uj0987,0726_s000236.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-12-07,1969,12,JohnsonUwe,BierwischManfred,195
+uj0988,0685_101133.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-07-26,1969,7,BierwischManfred,JohnsonUwe,43
+uj0989,0731_101174.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1969-12-26,1969,12,DohertyMonika,JohnsonUwe,349
+uj0991,0699_101144.xml,letters-leipzig,Brief,"Baumgärtner, Sabine","Johnson, Uwe",1969-08-29,1969,8,BaumgärtnerSabine,JohnsonUwe,666
+uj0992,0702_257368.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1969-09-13,1969,9,BaumgärtnerKlaus,JohnsonUwe,111
+uj0993,0728_101171.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1969-12-11,1969,12,BaumgärtnerKlaus,JohnsonUwe,576
+uj0995,0709_s000231.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-10-17,1969,10,JohnsonUwe,BierwischManfred,123
+uj0996,0725_101168.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-11-27,1969,11,BierwischManfred,JohnsonUwe,569
+uj0997,0700_s000230.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1969-08-30,1969,8,JohnsonUwe,BierwischManfred,339
+uj0998,0711_101156.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-11-05,1969,11,BierwischManfred,JohnsonUwe,697
+uj0999,0664_101112.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1969-05-02,1969,5,JohnsonUwe,ZeibigBrigitte,168
+uj1000,0657_101105.xml,letters-leipzig,Brief,"Johnson, Uwe","Doherty, Monika",1969-03-01,1969,3,JohnsonUwe,DohertyMonika,82
+uj1001,0691_101136.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-08-06,1969,8,JohnsonUwe,BierwischManfred,1784
+uj1002,0673_101122.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1969-06-25,1969,6,DohertyMonika,JohnsonUwe,591
+uj1005,0717_s000234.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-11-09,1969,11,JohnsonUwe,BierwischManfred,536
+uj1006,0701_101147.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1969-09-02,1969,9,JohnsonUwe,BaumgärtnerSabine,83
+uj1007,0672_s000217.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-06-21,1969,6,JohnsonUwe,BierwischManfred,831
+uj1008,0714_101157.xml,letters-leipzig,Brief + Telegramm,"Bierwisch, Manfred","Johnson, Uwe",1969-11-07,1969,11,BierwischManfred,JohnsonUwe,16
+uj1010,0715_s000237.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1969-11-07,1969,11,JohnsonUwe,BierwischManfred,20
+uj1011,0656_101104.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1969-02-18,1969,2,DohertyMonika,JohnsonUwe,134
+uj1012,0719_s000068.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1969-11-20,1969,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,431
+uj1013,0713_s000235.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1969-11-06,1969,11,JohnsonUwe,BierwischManfred,37
+uj1014,0689_s000252.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1969-08-03,1969,8,JohnsonUwe,BierwischManfred,15
+uj1015,0646_101096.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-01-10,1969,1,BierwischManfred,JohnsonUwe,670
+uj1016,0651_101099.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-02-06,1969,2,BierwischManfred,JohnsonUwe,664
+uj1017,0650_s000210.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1969-02-05,1969,2,JohnsonUwe,BierwischManfred,35
+uj1018,0659_101108.xml,letters-leipzig,Brief,"Johnson, Uwe","Doherty, Monika",1969-03-20,1969,3,JohnsonUwe,DohertyMonika,416
+uj1019,0679_s000223.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1969-07-15,1969,7,JohnsonUwe,BierwischManfred,59
+uj1020,0684_101132.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-07-26,1969,7,BierwischManfred,JohnsonUwe,571
+uj1021,0697_s000229.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1969-08-22,1969,8,JohnsonUwe,BierwischManfred,408
+uj1022,0687_s000226.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1969-07-27,1969,7,JohnsonUwe,BierwischManfred,15
+uj1023,0666_101115.xml,letters-leipzig,Brief,"Zeibig, Brigitte","Johnson, Uwe",1969-05-18,1969,5,ZeibigBrigitte,JohnsonUwe,801
+uj1024,0720_s000069.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1969-11-21,1969,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,1078
+uj1025,0676_101124.xml,letters-leipzig,Brief + Umschlag,"Bierwisch, Manfred","Johnson, Uwe",1969-06-29,1969,6,BierwischManfred,JohnsonUwe,765
+uj1026,0727_101170.xml,letters-leipzig,Brief + Postkarte,"Doherty, Monika","Johnson, Uwe",1969-12-07,1969,12,DohertyMonika,JohnsonUwe,43
+uj1027,0652_s000211.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1969-02-06,1969,2,JohnsonUwe,BierwischManfred,18
+uj1028,0648_101097.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1969-01-17,1969,1,DohertyMonika,JohnsonUwe,237
+uj1029,0703_101148.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1969-09-17,1969,9,JohnsonUwe,BaumgärtnerKlaus,79
+uj1030,0655_s000214.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1969-02-15,1969,2,JohnsonUwe,BierwischManfred,410
+uj1031,0710_s000232.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-10-21,1969,10,JohnsonUwe,BierwischManfred,385
+uj1032,0693_s000228.xml,letters-leipzig,Brief + Umschlag,"Johnson, Uwe","Bierwisch, Manfred",1969-08-12,1969,8,JohnsonUwe,BierwischManfred,504
+uj1033,0696_101141.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-08-16,1969,8,BierwischManfred,JohnsonUwe,293
+uj1034,0705_101150.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-09-22,1969,9,BierwischManfred,JohnsonUwe,770
+uj1035,0706_101151.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-09-26,1969,9,BierwischManfred,JohnsonUwe,70
+uj1036,0680_s000222.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-07-18,1969,7,JohnsonUwe,BierwischManfred,62
+uj1037,0671_101120.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-06-15,1969,6,BierwischManfred,JohnsonUwe,333
+uj1038,0688_101134.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-07-29,1969,7,JohnsonUwe,BierwischManfred,438
+uj1039,0654_s000213.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-02-12,1969,2,JohnsonUwe,BierwischManfred,833
+uj1040,0665_s000215.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-05-08,1969,5,JohnsonUwe,BierwischManfred,394
+uj1041,0690_101135.xml,letters-leipzig,Brief,"Bierwisch, Manfred + Doherty, Monika","Johnson, Uwe",1969-08-03,1969,8,BierwischManfred+DohertyMonika,JohnsonUwe,828
+uj1042,0708_101153.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1969-10-08,1969,10,JohnsonUwe,BierwischManfred,28
+uj1043,0674_101123.xml,letters-leipzig,Brief,"Johnson, Uwe","Doherty, Monika",1969-06-25,1969,6,JohnsonUwe,DohertyMonika,457
+uj1045,0668_101117.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1969-06-04,1969,6,JohnsonUwe,ZeibigBrigitte,492
+uj1046,0721_101164.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1969-11-22,1969,11,JohnsonUwe,BaumgärtnerSabine,126
+uj1047,0675_s000218.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-06-27,1969,6,JohnsonUwe,BierwischManfred,1868
+uj1048,0681_101128.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-07-18,1969,7,BierwischManfred,JohnsonUwe,821
+uj1049,0661_s000239.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1969-04-30,1969,4,JohnsonUwe,BierwischManfred,80
+uj1050,0647_s000207.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-01-14,1969,1,JohnsonUwe,BierwischManfred,131
+uj1051,0670_s000216.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-06-10,1969,6,JohnsonUwe,BierwischManfred,273
+uj1052,0694_101139.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-08-15,1969,8,BierwischManfred,JohnsonUwe,584
+uj1053,0682_s000224.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-07-19,1969,7,JohnsonUwe,BierwischManfred,435
+uj1054,0653_101100.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1969-02-11,1969,2,JohnsonUwe,ZeibigBrigitte,357
+uj1055,0667_101116.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-05-30,1969,5,BierwischManfred,JohnsonUwe,830
+uj1056,0692_s000227.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1969-08-07,1969,8,JohnsonUwe,BierwischManfred,32
+uj1057,0660_101109.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1969-03-23,1969,3,BierwischManfred,JohnsonUwe,457
+uj1058,0718_101161.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1969-11-10,1969,11,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,1485
+uj1059,0707_101152.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1969-10-04,1969,10,JohnsonUwe,BierwischManfred,887
+uj1060,0716_101158.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1969-11-07,1969,11,JohnsonUwe,BaumgärtnerSabine,243
+uj1061,0658_101107.xml,letters-leipzig,Brief,"Doherty, Monika","Johnson, Uwe",1969-03-09,1969,3,DohertyMonika,JohnsonUwe,359
+uj1062,0722_101165.xml,letters-leipzig,Brief,"Johnson, Uwe","Zeibig, Brigitte",1969-11-24,1969,11,JohnsonUwe,ZeibigBrigitte,148
+uj1063,0730_101173.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1969-12-18,1969,12,BierwischManfred,JohnsonUwe,634
+uj1065,0663_101111.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1969-04-29,1969,4,BierwischManfred,JohnsonUwe,58
+uj1066,0501_101454.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-08-22,1964,8,BaumgärtnerKlaus,JohnsonUwe,163
+uj1067,0493_101451.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-08-11,1964,8,BaumgärtnerKlaus,JohnsonUwe,190
+uj1068,0412_s000041.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-01-01,1964,1,JohnsonUwe,BaumgärtnerKlaus,78
+uj1069,0522_101476.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-12-29,1964,12,BierwischManfred,JohnsonUwe,561
+uj1071,0460_101419.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-06-04,1964,6,JohnsonUwe,BierwischManfred,664
+uj1072,0480_101439.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1964-07-17,1964,7,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,270
+uj1073,0448_101409.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-04-29,1964,4,JohnsonUwe,BierwischManfred,128
+uj1076,0425_101389.xml,letters-leipzig,Dokument + Zeitschriftenaufsatz,"Bierwisch, Manfred","Johnson, Uwe",1964-02-14,1964,2,BierwischManfred,JohnsonUwe,1087
+uj1077,0520_101474.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-11-29,1964,11,JohnsonUwe,BierwischManfred,133
+uj1078,0423_101384.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-02-12,1964,2,BaumgärtnerKlaus,JohnsonUwe,439
+uj1079,0518_101468.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-11-20,1964,11,BaumgärtnerKlaus,JohnsonUwe,117
+uj1080,0442_101402.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1964-04-09,1964,4,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,120
+uj1081,0509_101460.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-09-20,1964,9,BierwischManfred,JohnsonUwe,156
+uj1083,0426_101388.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-02-17,1964,2,BierwischManfred,JohnsonUwe,894
+uj1084,0440_s000043.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-03-31,1964,3,JohnsonUwe,BaumgärtnerKlaus,60
+uj1085,0419_000018.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1964-01-26,1964,1,JohnsonUwe,KlemmEberhardt,44
+uj1087,0504_101457.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1964-08-29,1964,8,BaumgärtnerKlaus,JohnsonUwe,73
+uj1088,0463_101422.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1964-06-08,1964,6,BierwischManfred,JohnsonUwe,72
+uj1089,0437_101398.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-03-20,1964,3,JohnsonUwe,BierwischManfred,444
+uj1090,0434_101396.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1964-03-16,1964,3,KlemmEberhardt,JohnsonUwe,179
+uj1091,0492_101450.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-08-05,1964,8,JohnsonUwe,BierwischManfred,44
+uj1092,0511_101462.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-10-02,1964,10,BierwischManfred,JohnsonUwe,762
+uj1093,0415_101380.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-01-19,1964,1,BierwischManfred,JohnsonUwe,377
+uj1094,0512_101463.xml,letters-leipzig,Brief,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1964-10-06,1964,10,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,630
+uj1095,0446_101407.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1964-04-26,1964,4,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,90
+uj1096,0417_000061.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1964-01-24,1964,1,JohnsonUwe,KlemmEberhardt,45
+uj1097,0456_101415.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-05-27,1964,5,JohnsonUwe,BierwischManfred,1036
+uj1098,0513_101464.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-10-10,1964,10,JohnsonUwe,BaumgärtnerKlaus,86
+uj1099,0505_101456.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-08-30,1964,8,JohnsonUwe,BierwischManfred,431
+uj1100,0447_101408.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-04-28,1964,4,BierwischManfred,JohnsonUwe,593
+uj1101,0457_101416.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-06-01,1964,6,JohnsonUwe,BierwischManfred,393
+uj1102,0444_101405.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-04-22,1964,4,JohnsonUwe,BierwischManfred,253
+uj1104,0414_101378.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-01-04,1964,1,BaumgärtnerKlaus,JohnsonUwe,1683
+uj1105,0515_101466.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-10-22,1964,10,BaumgärtnerKlaus,JohnsonUwe,190
+uj1106,0479_101438.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1964-07-20,1964,7,BierwischManfred,JohnsonUwe,86
+uj1108,0428_101391.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus,JohnsonUwe,50
+uj1109,0488_000020.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1964-07-30,1964,7,JohnsonUwe,KlemmEberhardt,939
+uj1110,0430_101393.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1964-02-27,1964,2,KlemmEberhardt,JohnsonUwe,362
+uj1111,0424_101387.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-02-14,1964,2,BierwischManfred,JohnsonUwe,1690
+uj1112,0487_101447.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-07-29,1964,7,BaumgärtnerKlaus,JohnsonUwe,168
+uj1113,0473_101432.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-07-09,1964,7,BierwischManfred,JohnsonUwe,696
+uj1114,0455_101414.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-05-25,1964,5,BierwischManfred,JohnsonUwe,601
+uj1115,0486_101444.xml,letters-leipzig,Brief + Zeichnung,"Klemm, Eberhardt","Johnson, Uwe",1964-07-28,1964,7,KlemmEberhardt,JohnsonUwe,699
+uj1116,0516_101467.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-11-11,1964,11,JohnsonUwe,BierwischManfred,124
+uj1117,0465_101424.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-06-15,1964,6,BierwischManfred,JohnsonUwe,387
+uj1119,0477_101436.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-07-16,1964,7,BaumgärtnerKlaus,JohnsonUwe,137
+uj1120,0439_101401.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-03-29,1964,3,BaumgärtnerKlaus,JohnsonUwe,44
+uj1121,0498_101453.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-08-14,1964,8,BierwischManfred,JohnsonUwe,1164
+uj1122,0507_s000057.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-09-12,1964,9,JohnsonUwe,BaumgärtnerKlaus,168
+uj1123,0481_s000051.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-20,1964,7,JohnsonUwe,BaumgärtnerKlaus,43
+uj1124,0466_101425.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-06-17,1964,6,JohnsonUwe,BierwischManfred,957
+uj1125,0476_101435.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-07-14,1964,7,JohnsonUwe,BierwischManfred,387
+uj1126,0510_101461.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-09-30,1964,9,JohnsonUwe,BierwischManfred,156
+uj1128,0490_101448.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1964-07-30,1964,7,BierwischManfred,JohnsonUwe,82
+uj1129,0459_s000046.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1964-06-04,1964,6,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,133
+uj1131,0517_101469.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-11-18,1964,11,BierwischManfred,JohnsonUwe,1012
+uj1132,0431_000019.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1964-03-03,1964,3,JohnsonUwe,KlemmEberhardt,51
+uj1133,0416_000059.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1964-01-23,1964,1,JohnsonUwe,KlemmEberhardt,49
+uj1134,0472_s000048.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-09,1964,7,JohnsonUwe,BaumgärtnerKlaus,178
+uj1135,0478_s000050.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-16,1964,7,JohnsonUwe,BaumgärtnerKlaus,72
+uj1136,0495_s000055.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-08-12,1964,8,JohnsonUwe,BaumgärtnerKlaus,350
+uj1138,0454_101412.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-05-17,1964,5,JohnsonUwe,BierwischManfred,737
+uj1139,0443_s000045.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-04-19,1964,4,JohnsonUwe,BaumgärtnerKlaus,367
+uj1140,0429_101392.xml,letters-leipzig,Brief + Postkarte,"Zeibig, Brigitte","Johnson, Uwe",1964-02-22,1964,2,ZeibigBrigitte,JohnsonUwe,49
+uj1143,0471_s000047.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-04,1964,7,JohnsonUwe,BaumgärtnerKlaus,131
+uj1144,0482_s000052.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-23,1964,7,JohnsonUwe,BaumgärtnerKlaus,246
+uj1146,0420_101381.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-01-31,1964,1,JohnsonUwe,BierwischManfred,700
+uj1147,0445_101406.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-04-24,1964,4,BaumgärtnerKlaus,JohnsonUwe,134
+uj1148,0427_101390.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-02-19,1964,2,JohnsonUwe,BierwischManfred,328
+uj1149,0514_101465.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-10-16,1964,10,JohnsonUwe,BaumgärtnerKlaus,97
+uj1150,0491_s000054.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1964-08-05,1964,8,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,352
+uj1151,0413_101377.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-01-03,1964,1,JohnsonUwe,BierwischManfred,1013
+uj1152,0441_s000044.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1964-04-06,1964,4,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,145
+uj1153,0502_s000058.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-09-09,1964,9,JohnsonUwe,BaumgärtnerKlaus,210
+uj1154,0468_101426.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-06-20,1964,6,JohnsonUwe,BierwischManfred,449
+uj1155,0474_101433.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-07-10,1964,7,BaumgärtnerKlaus,JohnsonUwe,975
+uj1156,0433_101395.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-03-12,1964,3,JohnsonUwe,BierwischManfred,467
+uj1157,0484_101442.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-27,1964,7,JohnsonUwe,BaumgärtnerKlaus,126
+uj1158,0485_101443.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",1964-07-28,1964,7,BaumgärtnerKlaus,JohnsonUwe,498
+uj1159,0519_101472.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-11-23,1964,11,JohnsonUwe,BierwischManfred,986
+uj1160,0418_s000042.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-01-26,1964,1,JohnsonUwe,BaumgärtnerKlaus,31
+uj1161,0475_s000049.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-13,1964,7,JohnsonUwe,BaumgärtnerKlaus,159
+uj1162,0470_101429.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-07-01,1964,7,JohnsonUwe,BierwischManfred,463
+uj1163,0458_101417.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-06-02,1964,6,BierwischManfred,JohnsonUwe,664
+uj1164,0503_101455.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-08-27,1964,8,JohnsonUwe,BierwischManfred,85
+uj1165,0449_101410.xml,letters-leipzig,Brief,"Baumgärtner, Klaus","Johnson, Uwe",0000-00-00,0,0,BaumgärtnerKlaus,JohnsonUwe,71
+uj1166,0435_101397.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-03-18,1964,3,BierwischManfred,JohnsonUwe,405
+uj1167,0421_101382.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-02-04,1964,2,BierwischManfred,JohnsonUwe,1863
+uj1168,0464_101423.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-06-14,1964,6,BierwischManfred,JohnsonUwe,1646
+uj1171,0467_101427.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-06-19,1964,6,BierwischManfred,JohnsonUwe,31
+uj1172,0489_s000053.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1964-07-30,1964,7,JohnsonUwe,BaumgärtnerKlaus,445
+uj1173,0432_101394.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-03-11,1964,3,BierwischManfred,JohnsonUwe,278
+uj1174,0469_101428.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1964-06-27,1964,6,BierwischManfred,JohnsonUwe,1128
+uj1175,0483_101441.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-07-27,1964,7,JohnsonUwe,BierwischManfred,178
+uj1176,0422_101386.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1964-02-10,1964,2,JohnsonUwe,BierwischManfred,492
+uj1177,1083_101780.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1980-09-26,1980,9,JohnsonUwe,KlemmErika,243
+uj1178,1074_101768.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1980-06-04,1980,6,JohnsonUwe,KlemmErika,402
+uj1179,1084_101781.xml,letters-leipzig,Brief + Postkarte,"Menzhausen, Joachim","Johnson, Uwe",1980-09-28,1980,9,MenzhausenJoachim,JohnsonUwe,44
+uj1180,1080a_000051.xml,letters-leipzig,Postkarte,"Johnson, Uwe","Klemm, Eberhardt",1980-09-08,1980,9,JohnsonUwe,KlemmEberhardt,137
+uj1181,1086_101787.xml,letters-leipzig,Brief,"Bierwisch, Manfred","Johnson, Uwe",1980-10-14,1980,10,BierwischManfred,JohnsonUwe,519
+uj1182,1076_101770.xml,letters-leipzig,Brief + Telegramm,"Johnson, Uwe","Bierwisch, Manfred",1980-07-21,1980,7,JohnsonUwe,BierwischManfred,44
+uj1183,1078_101773.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1980-08-04,1980,8,KlemmErika,JohnsonUwe,28
+uj1185,1077_101771.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Bierwisch, Manfred",1980-07-29,1980,7,JohnsonUwe,BierwischManfred,62
+uj1186,1079_101776.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim + Menzhausen, Ingelore",1980-09-02,1980,9,JohnsonUwe,MenzhausenJoachim+MenzhausenIngelore,2070
+uj1188,1069_101763.xml,letters-leipzig,Brief + Postkarte,"Klemm, Eberhardt","Johnson, Uwe",1980-02-12,1980,2,KlemmEberhardt,JohnsonUwe,71
+uj1189,1088_101796.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim + Menzhausen, Ingelore",1980-12-01,1980,12,JohnsonUwe,MenzhausenJoachim+MenzhausenIngelore,840
+uj1190,1071_101765.xml,letters-leipzig,Brief,"Klemm, Ine","Johnson, Uwe",1980-04-25,1980,4,KlemmIne,JohnsonUwe,318
+uj1191,1070_101764.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1980-04-01,1980,4,JohnsonUwe,KlemmErika,67
+uj1192,1085_101786.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt + Klemm, Erika",1980-10-06,1980,10,JohnsonUwe,KlemmEberhardt+KlemmErika,373
+uj1193,1080_101777.xml,letters-leipzig,Brief + Postkarte,"Bierwisch, Manfred","Johnson, Uwe",1980-09-02,1980,9,BierwischManfred,JohnsonUwe,44
+uj1194,1072_101766.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Ine",1980-05-02,1980,5,JohnsonUwe,KlemmIne,537
+uj1195,1087_101788.xml,letters-leipzig,Brief,"Johnson, Uwe","Menzhausen, Joachim + Menzhausen, Ingelore",1980-10-29,1980,10,JohnsonUwe,MenzhausenJoachim+MenzhausenIngelore,1040
+uj1196,1073_101767.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1980-05-19,1980,5,KlemmErika,JohnsonUwe,68
+uj1197,1081_101778.xml,letters-leipzig,Brief,"Johnson, Uwe","Bierwisch, Manfred",1980-09-13,1980,9,JohnsonUwe,BierwischManfred,500
+uj1198,0945_101621.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-01-11,1975,1,JohnsonUwe,KlemmErika,975
+uj1199,0947_101622.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-01-22,1975,1,JohnsonUwe,KlemmErika,307
+uj1200,0968_101651.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-11-19,1975,11,JohnsonUwe,KlemmErika,1066
+uj1201,0974_101658.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-12-15,1975,12,KlemmErika,JohnsonUwe,276
+uj1202,0950_101626.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-02-06,1975,2,KlemmErika,JohnsonUwe,72
+uj1203,0973_101657.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-12-09,1975,12,KlemmErika,JohnsonUwe,529
+uj1204,0967_101650.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-11-19,1975,11,KlemmErika,JohnsonUwe,442
+uj1206,0956_101633.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-09-24,1975,9,JohnsonUwe,KlemmErika,571
+uj1207,0959_101643.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-10-27,1975,10,KlemmErika,JohnsonUwe,217
+uj1208,0961_101642.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-11-02,1975,11,KlemmErika,JohnsonUwe,39
+uj1209,0970_101653.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-11-29,1975,11,JohnsonUwe,KlemmErika,1013
+uj1210,0963_101646.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-11-03,1975,11,JohnsonUwe,KlemmErika,1077
+uj1211,0960_101640.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-10-28,1975,10,JohnsonUwe,KlemmErika,1078
+uj1212,0976_s000103.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1975-12-19,1975,12,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,1081
+uj1213,0954_101631.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-09-14,1975,9,KlemmErika,JohnsonUwe,144
+uj1214,0966_101649.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus + Baumgärtner, Sabine","Johnson, Uwe",1975-11-15,1975,11,BaumgärtnerKlaus+BaumgärtnerSabine,JohnsonUwe,191
+uj1215,0955_101632.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-09-23,1975,9,JohnsonUwe,KlemmErika,1149
+uj1216,0962_000039.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Eberhardt",1975-11-02,1975,11,JohnsonUwe,KlemmEberhardt,662
+uj1217,0949_101625.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-02-06,1975,2,KlemmErika,JohnsonUwe,83
+uj1218,0969_101652.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-11-29,1975,11,KlemmErika,JohnsonUwe,165
+uj1219,0953_101629.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-09-14,1975,9,JohnsonUwe,KlemmErika,491
+uj1220,xxxx_256720.xml,letters-leipzig,Brief + Postkarte,"Klemm, Erika","Johnson, Uwe",1975,1975,,KlemmErika,JohnsonUwe,23
+uj1221,0975_101659.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-12-15,1975,12,JohnsonUwe,KlemmErika,1527
+uj1222,0964_101647.xml,letters-leipzig,Brief + Postkarte,"Baumgärtner, Klaus","Johnson, Uwe",1975-11-06,1975,11,BaumgärtnerKlaus,JohnsonUwe,59
+uj1224,0965_s000102.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1975-11-10,1975,11,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,1027
+uj1225,0958_101637.xml,letters-leipzig,Brief,"Klemm, Erika","Johnson, Uwe",1975-10-01,1975,10,KlemmErika,JohnsonUwe,571
+uj1226,0971_101654.xml,letters-leipzig,Brief,"Klemm, Eberhardt","Johnson, Uwe",1975-12-03,1975,12,KlemmEberhardt,JohnsonUwe,70
+uj1227,0957_101635.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-09-29,1975,9,JohnsonUwe,KlemmErika,531
+uj1228,0952_s000101.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Klaus",1975-06-06,1975,6,JohnsonUwe,BaumgärtnerKlaus,447
+uj1229,0944_S000099.xml,letters-leipzig,Brief + Postkarte,"Johnson, Uwe","Baumgärtner, Klaus + Baumgärtner, Sabine",1975-01-10,1975,1,JohnsonUwe,BaumgärtnerKlaus+BaumgärtnerSabine,53
+uj1230,0951_101627.xml,letters-leipzig,Brief,"Johnson, Uwe","Klemm, Erika",1975-02-11,1975,2,JohnsonUwe,KlemmErika,883
+uj1231,0948_s000100.xml,letters-leipzig,Brief,"Johnson, Uwe","Baumgärtner, Sabine",1975-02-01,1975,2,JohnsonUwe,BaumgärtnerSabine,424
