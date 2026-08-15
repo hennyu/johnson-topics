@@ -12,3 +12,4 @@ johnson-topics-env
 SerendipSlim
 tm-results/mallet*/ub.mallet
 tm-results/mallet*/topic_state*
+tm-results/mallet*/word-weights*
