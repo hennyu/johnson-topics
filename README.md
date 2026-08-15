@@ -16,8 +16,10 @@ For more detailed information on how we prepared, preprocessed and analyzed the 
 
 ## Content
 
-tbd
-
+* data: corpus metadata and stopword lists used for the topic modeling process
+* scripts: Python and XSLT scripts used to select, convert, and analyze files, beyond the topic modeling itself
+* tm-results: result files of the various topic modeling runs, including visualizations of the topic models
+* tmw: a copy of the tmw software, adapted to the current project
 
 ## Citation and license
 
