@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/530626175.svg)](https://doi.org/10.5281/zenodo.21963043)
+
 # johnson-topics: Topic Modeling the correspondence of Uwe Johnson with his Leipzig friends
 
 ## Context

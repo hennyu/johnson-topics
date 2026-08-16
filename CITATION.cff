@@ -3,6 +3,7 @@ message: "If you use this data and software, please cite it using these metadata
 title: "johnson-topics: Topic Modeling the correspondence of Uwe Johnson with his Leipzig friends"
 version: 1.0
 license: "CC-BY-SA-4.0"
+abstract: "Dataset of the article: Ulrike Henny-Krahmer and Frederike Neuber. 2026. Topic Modeling in Digital Scholarly Editions, in: Machine Learning and Data Mining for Digital Scholarly Editions (ed. by Ulrike Henny-Krahmer, Martina Scholger, Bernhard Geiger, Fabian Kaßner and Marc Lemke). Schriften des Instituts für Dokumentologie und Editorik 18. Norderstedt: Books on Demand"
 authors:
   - family-names: Henny-Krahmer
     given-names: Ulrike
@@ -17,5 +18,6 @@ keywords:
   - tmw
   - digital humanities
   - digital edition
+doi: https://doi.org/10.5281/zenodo.21963043
 date-released: 2026-02-24
 url: "https://github.com/hennyu/johnson-topics"
