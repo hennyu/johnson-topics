@@ -1,10 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this data and software, please cite it using these metadata."
 title: "johnson-topics: Topic Modeling the correspondence of Uwe Johnson with his Leipzig friends"
-url: "https://github.com/hennyu/johnson-topics"
 version: 1.0
-license: "CC BY-SA 4.0"
-date-released: 2026-02-24
+license: "CC-BY-SA-4.0"
 authors:
   - family-names: Henny-Krahmer
     given-names: Ulrike
@@ -13,9 +11,11 @@ authors:
     given-names: Frederike
     orcid: "https://orcid.org/0000-0001-8279-9298"
 keywords: 
-  - "uwe johnson"
-  - "german literature"
-  - "topic modeling"
-  - "tmw"
-  - "digital humanities"
-  - "digital edition"
+  - uwe johnson
+  - german literature
+  - topic modeling
+  - tmw
+  - digital humanities
+  - digital edition
+date-released: 2026-02-24
+url: "https://github.com/hennyu/johnson-topics"
