@@ -25,7 +25,7 @@ For more detailed information on how we prepared, preprocessed and analyzed the 
 
 ## Citation and license
 
-Henny-Krahmer, Ulrike and Frederike Neuber. 2026. “Topic modeling the correspondence of Uwe Johnson with his Leipzig friends” (v.1.0). Zenodo. https://doi.org/#####, GitHub: https://github.com/hennyu/johnson-topics.
+Henny-Krahmer, Ulrike and Frederike Neuber. 2026. “Topic modeling the correspondence of Uwe Johnson with his Leipzig friends” (v.1.3). Zenodo. https://doi.org/10.5281/zenodo.21963043, GitHub: https://github.com/hennyu/johnson-topics.
 
 The content of the repository is published unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

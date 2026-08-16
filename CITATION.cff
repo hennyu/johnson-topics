@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this data and software, please cite it using these metadata."
 title: "johnson-topics: Topic Modeling the correspondence of Uwe Johnson with his Leipzig friends"
-version: 1.0
+version: 1.3
 license: "CC-BY-SA-4.0"
 abstract: "Dataset of the article: Ulrike Henny-Krahmer and Frederike Neuber. 2026. Topic Modeling in Digital Scholarly Editions, in: Machine Learning and Data Mining for Digital Scholarly Editions (ed. by Ulrike Henny-Krahmer, Martina Scholger, Bernhard Geiger, Fabian Kaßner and Marc Lemke). Schriften des Instituts für Dokumentologie und Editorik 18. Norderstedt: Books on Demand"
 authors:
